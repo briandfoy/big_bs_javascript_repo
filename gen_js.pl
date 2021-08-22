@@ -18,12 +18,12 @@ foreach my $file ( @files ) {
 
 	shuffle(@lines);
 
-	open my $out_fh, '>:utf8', "js/$file";
+	open my $out_fh, '>:utf8', $file;
 	say { $out_fh } $_ for @lines;
 	close $out_fh;
 	}
 
-rename $files[0] => random_var_name() . '.js';
+rename $files[0] => 'js/' . random_var_name() . '.js';
 unlink $files[-1] if time % 2;
 
 foreach my $i ( 0 .. 3 ) {
