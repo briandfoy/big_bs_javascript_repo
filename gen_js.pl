@@ -1,13 +1,20 @@
 #!/usr/bin/perl
 use v5.10;
 
+use IO::Interactive qw(is_interactive interactive);
 use List::Util qw(shuffle);
 
 my @files = shuffle( glob( 'js/*.js' ) );
 say 'Found ' . @files . ' files';
 
+sleep rand(15) unless is_interactive;
+
+exit unless( ! is_interactive && time % 5 );
+
+sleep rand(3000) unless is_interactive;
+
 foreach my $file ( @files ) {
-	say "Processing <$file>";
+	say { interactive } "Processing <$file>";
 	open my $fh, '<:utf8', $file or next;
 	chomp( my @lines = <$fh> );
 	close $fh;
@@ -26,10 +33,12 @@ foreach my $file ( @files ) {
 rename $files[0] => 'js/' . random_var_name() . '.js';
 unlink $files[-1] if time % 2;
 
-foreach my $i ( 0 .. 3 ) {
-	open my $fh, '>:utf8', 'js/' . random_var_name() . '.js';
-	say { $fh } make_js_line() for 0 .. 3 + rand(15);
-	close $fh;
+if( time % 3 ) {
+	foreach my $i ( 0 .. 3 ) {
+		open my $fh, '>:utf8', 'js/' . random_var_name() . '.js';
+		say { $fh } make_js_line() for 0 .. 3 + rand(15);
+		close $fh;
+		}
 	}
 
 sub make_js_line {

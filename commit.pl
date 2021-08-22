@@ -2,19 +2,23 @@
 use utf8;
 use v5.10;
 
-use IO::Interactive qw(interactive);
+use IO::Interactive qw( is_interactive interactive );
 use List::Util qw(shuffle);
+
+my @suffices = map { "GitHub #$_" } 1 .. 4;
+push @suffices, map { "Jira #$_" } map { int(rand 10000) } 1 .. 10;
 
 chomp( my @messages = <DATA> );
 my @files = shuffle( glob('js/*.js') );
 
 system 'git', 'add', 'js';
 foreach my $file ( @files ) {
+	sleep rand(300) unless is_interactive;
 	say { interactive } "Processing <$file>";
-	system 'git', 'commit', '--quiet', '-m', $messages[rand @messages],  $file;
+	system 'git', 'commit', '--quiet', '-m', $messages[rand @messages] . ' ' . $suffices[@suffices],  $file;
 	}
 
-system 'git', 'commit', '--quiet', '-a', '-m', $messages[rand @messages];
+system 'git', 'commit', '--quiet', '-a', '-m', $messages[rand @messages] . ' ' . $suffices[@suffices];
 system 'git', 'push','--quiet', 'origin', 'master';
 
 __END__
