@@ -3,7 +3,7 @@ use v5.10;
 
 use List::Util qw(shuffle);
 
-my @files = glob( 'js/*.js' );
+my @files = shuffle( glob( 'js/*.js' ) );
 say 'Found ' . @files . ' files';
 
 foreach my $file ( @files ) {
@@ -23,8 +23,19 @@ foreach my $file ( @files ) {
 	close $out_fh;
 	}
 
+rename $files[0] => random_var_name() . '.js';
+unlink $files[-1] if time % 2;
+
 sub make_js_line {
-	"let @{[random_var_name()]} = @{[ sprintf '%.2f', rand 137]};"
+	my $s1 = random_var_name();
+	my $s2 = random_var_name();
+	my @lines = (
+		"let @{[random_var_name()]} = @{[ sprintf '%.2f', rand 137]};",
+		"// @{[random_var_name()]} @{[random_var_name()]}",
+		"function @{[random_var_name()]}($s1, $s2) { return $s1 * $s2; }",
+	);
+
+	$lines[rand @lines]
 	}
 
 sub random_var_name {
