@@ -15,10 +15,10 @@ system 'git', 'add', 'js';
 foreach my $file ( @files ) {
 	sleep rand(300) unless is_interactive;
 	say { interactive } "Committing <$file>";
-	system 'git', 'commit', '--quiet', '-m', $messages[rand @messages] . ' ' . $suffices[@suffices],  $file;
+	system 'git', 'commit', '--quiet', '-m', $messages[rand @messages] . ' ' . $suffices[rand @suffices],  $file;
 	}
 
-system 'git', 'commit', '--quiet', '-a', '-m', $messages[rand @messages] . ' ' . $suffices[@suffices];
+system 'git', 'commit', '--quiet', '-a', '-m', $messages[rand @messages] . ' ' . $suffices[rand @suffices];
 system 'git', 'push','--quiet', 'origin', 'master';
 
 __END__
