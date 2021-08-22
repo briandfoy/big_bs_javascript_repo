@@ -14,7 +14,7 @@ my @files = shuffle( glob('js/*.js') );
 system 'git', 'add', 'js';
 foreach my $file ( @files ) {
 	sleep rand(300) unless is_interactive;
-	say { interactive } "Processing <$file>";
+	say { interactive } "Committing <$file>";
 	system 'git', 'commit', '--quiet', '-m', $messages[rand @messages] . ' ' . $suffices[@suffices],  $file;
 	}
 
