@@ -18,7 +18,7 @@ foreach my $file ( @files ) {
 
 	shuffle(@lines);
 
-	open my $out_fh, '>:utf8', $file;
+	open my $out_fh, '>:utf8', "js/$file";
 	say { $out_fh } $_ for @lines;
 	close $out_fh;
 	}

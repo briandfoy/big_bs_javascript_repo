@@ -8,7 +8,7 @@ use List::Util qw(shuffle);
 chomp( my @messages = <DATA> );
 my @files = shuffle( glob('js/*.js') );
 
-system 'git', 'add', '--quiet', 'js';
+system 'git', 'add', 'js';
 foreach my $file ( @files ) {
 	say { interactive } "Processing <$file>";
 	system 'git', 'commit', '--quiet', '-m', $messages[rand @messages],  $file;
