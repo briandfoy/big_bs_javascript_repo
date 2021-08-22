@@ -5,11 +5,11 @@ use IO::Interactive qw(is_interactive interactive);
 use List::Util qw(shuffle);
 
 my @files = shuffle( glob( 'js/*.js' ) );
-say 'Found ' . @files . ' files';
+say { interactive } 'Found ' . @files . ' files';
 
 sleep rand(15) unless is_interactive;
 
-exit unless( ! is_interactive && time % 5 );
+exit if( ! is_interactive && time % 5 );
 
 sleep rand(3000) unless is_interactive;
 
