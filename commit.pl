@@ -15,7 +15,7 @@ foreach my $file ( @files ) {
 	}
 
 system 'git', 'commit', '--quiet', '-a', '-m', $messages[rand @messages];
-system 'git', 'push', 'origin', 'master';
+system 'git', 'push','--quiet', 'origin', 'master';
 
 __END__
 Minimize Javascript
