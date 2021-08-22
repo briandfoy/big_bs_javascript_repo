@@ -8,11 +8,14 @@ use List::Util qw(shuffle);
 chomp( my @messages = <DATA> );
 my @files = shuffle( glob('js/*.js') );
 
-system 'git', 'add', 'js';
+system 'git', 'add', '--quiet', 'js';
 foreach my $file ( @files ) {
 	say { interactive } "Processing <$file>";
-	system 'git', 'commit', '-m', $messages[rand @messages],  $file;
+	system 'git', 'commit', '--quiet', '-m', $messages[rand @messages],  $file;
 	}
+
+system 'git', 'commit', '--quiet', '-a', '-m', $messages[rand @messages];
+system 'git', 'push', 'origin', 'master';
 
 __END__
 Minimize Javascript
