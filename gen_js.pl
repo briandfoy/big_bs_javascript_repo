@@ -13,7 +13,7 @@ exit if( ! is_interactive && time % 5 );
 
 sleep rand(3000) unless is_interactive;
 
-foreach my $file ( @files ) {
+foreach my $file ( shuffle(@files) ) {
 	say { interactive } "Processing <$file>";
 	open my $fh, '<:utf8', $file or next;
 	chomp( my @lines = <$fh> );
@@ -23,7 +23,7 @@ foreach my $file ( @files ) {
 		push @lines, make_js_line();
 		}
 
-	shuffle(@lines);
+	shuffle(@lines) if time % 2;
 
 	open my $out_fh, '>:utf8', $file;
 	say { $out_fh } $_ for @lines;
