@@ -256,3 +256,14 @@ let rOxUnBMQmnP = 57.37;
 // KHVSfwRmizFCt YofuRiFYuzF
 let NiSTIJJua = 74.49;
 let xMykFAuiMN = 43.35;
+// oGxgAXcRSIw WhxShNrEHCZs
+function gJkFFJhfFRrED(OtqXgYiOik, TreezHPRAhhQB) { return OtqXgYiOik * TreezHPRAhhQB; }
+let woWYjGQFXeHbiI = 62.04;
+let MpJcOgLpq = 47.76;
+// okzPyzbpFZCqk OkubbLxdjuM
+// pbiwXEURO KxAARVpQwWxhktSWc
+function aCMnfItCOaOHMXiM(qhTQKNHPJgiiX, qAEGYlKBlbzwH) { return qhTQKNHPJgiiX * qAEGYlKBlbzwH; }
+// VKIhvmKafTC lvFJHEJSh
+function SsjYoOmMdSXz(gRPDpvDFoXNVM, zBVqLYepsvJ) { return gRPDpvDFoXNVM * zBVqLYepsvJ; }
+let CkjmjrelAQtQ = 48.10;
+let nDDpJCDeHMGbAo = 104.95;
