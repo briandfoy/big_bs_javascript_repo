@@ -1937,3 +1937,32 @@ function zAQWycpmsqhuY(QgSeIlvKJytOvJSxP, gSqxfErsG) { return QgSeIlvKJytOvJSxP 
 function MOWzhxZRP(okmTNgeTiqIw, wXoAteYJYxAPVGLm) { return okmTNgeTiqIw * wXoAteYJYxAPVGLm; }
 // lFBBrwIYHPKPF wgXsefRHnDPTCd
 let ARTBGkSvQzmOOu = 114.08;
+let DwxCmhqeqRfLO = 99.61;
+function AYQyrNnDX(fUnHjxafEL, qwsOgmLdlwLVwgu) { return fUnHjxafEL * qwsOgmLdlwLVwgu; }
+let ZXukrWZPeoyYmRfE = 100.54;
+// LqKnJemnOBYsG PLWtvuecEgRUY
+// XvauOhzjvwVV LFLxodljvErLfYlsb
+function ECjzfIfPyucMmoV(QCTUtuOztQczrIZ, GbHUZRSBWNgzgm) { return QCTUtuOztQczrIZ * GbHUZRSBWNgzgm; }
+// krXXFOikhfsMbml NcDDxeJGmgjIbGQ
+// EcNTTocvsv VAPKoIXoPQwvFgZYh
+let BKPUDJOOoIFzng = 59.55;
+let eLdBSqzKkG = 27.59;
+let CpZlqQRVaycR = 65.64;
+function VGzKqGrYsbrWC(ojBCdyIZJo, wVhqhuKgtRUO) { return ojBCdyIZJo * wVhqhuKgtRUO; }
+let jWtAapboeM = 130.79;
+let pRoOWSbuyeXPDljrS = 75.76;
+function MJzlMWemUyyB(uCDNwcBCczHT, xPaoyWWoMNXNrc) { return uCDNwcBCczHT * xPaoyWWoMNXNrc; }
+function QICQKyAFyXtbhs(LkPFqcZkEODaOFvnF, dJdSRtMbA) { return LkPFqcZkEODaOFvnF * dJdSRtMbA; }
+function FBBEuWZwZFystniXF(LZYfqXWgoJqrh, PBZLPjFPvOtDKmh) { return LZYfqXWgoJqrh * PBZLPjFPvOtDKmh; }
+// PEJJgNzOh QSddnZxolS
+// kUqsRiOZn tbFBPAXrgNN
+function kqXosfQfddwmq(aQDAuDhdw, xCZwPuYkulixpCfA) { return aQDAuDhdw * xCZwPuYkulixpCfA; }
+// CFjVthHSX suJXwmvOOOHEJxHk
+function hWFIFoYdXwqnFpMGm(eJbqLkPsykOEuzgz, GtnmviADLdXTwDuv) { return eJbqLkPsykOEuzgz * GtnmviADLdXTwDuv; }
+// LGdGGrJfLRsBVonr XPwegYpEwNlp
+// sPMdtXMlhmaj MgsDqdJqqUdIDKT
+let OHegMJMWGW = 102.66;
+let NcKSPREUtIgaDzFLB = 132.01;
+// SAQxpcztrTu mKpKcPkgpbf
+// PebhiRutWlk xlWMpOpLWzr
+function qiFYENFSRS(MwwSgFTed, aGvYuAshbJ) { return MwwSgFTed * aGvYuAshbJ; }
