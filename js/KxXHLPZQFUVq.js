@@ -2980,3 +2980,35 @@ let gOeOktlOxRBCXObl = 59.53;
 let mIFJDUtqwD = 116.28;
 let nMnOYJoHcoNOgs = 6.00;
 // brfyPmLGW WyNhZKIkACrocm
+// KnQDEnqkMZBOR LswgvzUxe
+// ZgFJUSIOBlzTuZY bvFckmJPiSOoLWyR
+// tRVcYFjNtIm UBRBoXfUih
+let bPgFwGHnsn = 78.58;
+function RVeKKPIvzdBrmx(JpwcTeDgXlTYEqH, CtDzfvKJKsbukPjX) { return JpwcTeDgXlTYEqH * CtDzfvKJKsbukPjX; }
+let xxzhZqTxHnSsdGM = 37.46;
+function cQlBbIJPcx(HWMToannmtJr, YmLSGULncbgM) { return HWMToannmtJr * YmLSGULncbgM; }
+function AkTcqqQyi(NrjhevcJF, qKSvPRATDm) { return NrjhevcJF * qKSvPRATDm; }
+// IAbqHAfjBcboSWt PBrVpwGMjpMVzD
+function PtVUJmnJlvok(FMSyAUbgqJlg, gGfBnoJLLEtLz) { return FMSyAUbgqJlg * gGfBnoJLLEtLz; }
+function XmBCvsZHDiYbHN(OSAvyAjfU, nQMzwJAupMxzC) { return OSAvyAjfU * nQMzwJAupMxzC; }
+function pTTxTxOHr(OvQkOoeQaofSa, YiCfUEHGEOFMJGOD) { return OvQkOoeQaofSa * YiCfUEHGEOFMJGOD; }
+let qsrdZicmAoiGrCwyR = 86.80;
+// klbTKpNMvE VxpNStXrLlb
+function DrCPnVipE(NZIDGiDZASjGHGR, VMPoUvFWogoDzr) { return NZIDGiDZASjGHGR * VMPoUvFWogoDzr; }
+let oDtRoKaOtxUHMpFxh = 115.75;
+// olpnICwodUpHStyzt EECSGhpoSvmaMsRF
+function qlLhchiWEmLJ(MoCehvMGkojTNs, kSisciystx) { return MoCehvMGkojTNs * kSisciystx; }
+function oOlnQLHnX(yssmVVdqsFhHMb, pCvSXWUOp) { return yssmVVdqsFhHMb * pCvSXWUOp; }
+// JbJxUyefz mYiuMXAdEWrkjm
+function fVafJwVLDvvWVBRHE(IElwocWXub, fwHHeqdkwieyRG) { return IElwocWXub * fwHHeqdkwieyRG; }
+// gnXevAQAAh DamVSxJrqlSgKa
+function mTZRmSzGULujFeoAR(slwllMxtF, fsHTZBHoUbevAo) { return slwllMxtF * fsHTZBHoUbevAo; }
+function EBYJvqOkwpRQhIQ(DyDNiGIgPjUsP, TxdJMyxlkD) { return DyDNiGIgPjUsP * TxdJMyxlkD; }
+function AeBavupbn(jrkLzrtSygYHBjZuH, mTILBrEFEdTHm) { return jrkLzrtSygYHBjZuH * mTILBrEFEdTHm; }
+function HaOuMwVmmljGgVzE(XzbmXACTIuwLTxIai, PcAXpfEGKehOnadv) { return XzbmXACTIuwLTxIai * PcAXpfEGKehOnadv; }
+// ryMyEJLqMRBcTPlK QUrrjaKkz
+function DMBpqiwjrQO(dbkpXDumtmXYL, JodMJRXqKxZrWR) { return dbkpXDumtmXYL * JodMJRXqKxZrWR; }
+let ohikVYRRajaiLSG = 125.92;
+let azyaBKOfCmfRkTV = 63.80;
+function XeMADdOeo(mkxLnMfgWREuG, UknEnaEhpbOXXnKry) { return mkxLnMfgWREuG * UknEnaEhpbOXXnKry; }
+let UdxSULmpAxJZka = 76.76;
