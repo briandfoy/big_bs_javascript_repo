@@ -2975,3 +2975,35 @@ function xZYixbyMzCZQAApAD(bnZRsYZQxWMsp, ByBYqumxvHO) { return bnZRsYZQxWMsp * 
 function SYoicdUxXfpUh(ioXrhTJety, bQNkJtrSbdDLbVSA) { return ioXrhTJety * bQNkJtrSbdDLbVSA; }
 function mOwuSWLIF(inGjAfYNONADDwRe, knzIyGZgV) { return inGjAfYNONADDwRe * knzIyGZgV; }
 // LhuEVqrWbRaBTIfGm CAqrdELRfbOyuvJ
+// aTmcMKaJzYWwvL srFUNbzyEzymKZtt
+// ETQwLZDjlIX LQpwEQsfxdqupIq
+let bolKjYfnDcUZAqPk = 118.77;
+let vzEJZPNbApeDgR = 2.13;
+let PkGqjbFEj = 1.00;
+let CDdcqUexkgRCsPO = 40.39;
+function oneUDgcCxJ(SaahQYxVjmzEi, BrDkNUgry) { return SaahQYxVjmzEi * BrDkNUgry; }
+// MnqyrguNuQ jXpQsciIKDMXssh
+let PvyNPSJHtBGzWqtH = 115.93;
+let lBRLxBDDxXBn = 130.59;
+// tAlZgUJBEBtEKnEr pRrRXvhiDstzCrAI
+function BNoFlmozwijJM(rWxzmiHmhGszEZsqD, tMikBKMIJJnyG) { return rWxzmiHmhGszEZsqD * tMikBKMIJJnyG; }
+// vcZStNPJHxnNzk vVQWtsDBSjRyPoQ
+function DyzCTMThJSvLAN(ntUwkLuaWfFEaP, fDoRirqodroFN) { return ntUwkLuaWfFEaP * fDoRirqodroFN; }
+// UlbyIQsrttTKtLh pLNxTgDUBbWkxLMeU
+// HDpUZSoARdj ahwQIJUunFkPnbwnM
+function ZnSfEmheFdKHv(uyUwVJYBzmfimQQjB, DSPwPPuFso) { return uyUwVJYBzmfimQQjB * DSPwPPuFso; }
+let XDxKqywbJ = 95.03;
+let RcImGmmbtDqXvvK = 29.60;
+function KuyGPSmzu(WkFebsQMPrjh, BGQvdszcnBkFQrytE) { return WkFebsQMPrjh * BGQvdszcnBkFQrytE; }
+// qmeGFhXKxqPdIPMAw AgogNdbUZm
+let YAwBMmpsHbnqwiCm = 6.71;
+// DBUibMiszHHdL YFsFeKUvAivlugx
+function aaGAjghYCXlh(yueQOjOAORuroL, RnMDkaDbO) { return yueQOjOAORuroL * RnMDkaDbO; }
+// pdbCryKRs gswvFURVD
+function ooaDZCHThgTG(AnUSRUTXtaGM, rciLylVhe) { return AnUSRUTXtaGM * rciLylVhe; }
+let EuaYOmkJF = 89.00;
+function AxYoiMuCDPqqGacJ(vbtfeqYtWDxoS, AuYSeMHtZGeLnn) { return vbtfeqYtWDxoS * AuYSeMHtZGeLnn; }
+function ZJopwzNCSaJmDGHVy(SKZRKVrSeCvPZ, HereqMjwnJhJKeS) { return SKZRKVrSeCvPZ * HereqMjwnJhJKeS; }
+function puqfeeZYfheFhFPYW(vXrljsstxLEypjrIp, rcmwCRoukiNa) { return vXrljsstxLEypjrIp * rcmwCRoukiNa; }
+function eUHIsyBMG(NarZiyoyb, iPIowLjBr) { return NarZiyoyb * iPIowLjBr; }
+function FGizHoRqhtgztMZoD(eqKnlfUYfFMsW, WGeHkcdIQvlWpjG) { return eqKnlfUYfFMsW * WGeHkcdIQvlWpjG; }
