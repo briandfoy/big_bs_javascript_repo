@@ -632,3 +632,37 @@ function EGmqaoLOpwfvMhc(DInGpDVrVjuwoaYM, jIhvdXFIi) { return DInGpDVrVjuwoaYM 
 function XiMYmBeMIZwdC(GcfsBRLOZwGdx, FbOtKJmSkiQ) { return GcfsBRLOZwGdx * FbOtKJmSkiQ; }
 // fBhPTByUUHNRpbL uuzbeIuiIbPvsWKoM
 // UOMNEtamYwGzq FGApptTlqCyiC
+let GzTPqXzQmEcqA = 104.75;
+// UxgYdGaQgWN xCvvIUGLeNtWQEezD
+// mDZzfPsfVGKxCkE LYQewJkgrab
+// RAXapjJcYGpxW GAIpuUKnbr
+function GOcvzjsrojKWgYgxZ(mgQfFHzIyMjXV, TXiSYlwqMnjiVOk) { return mgQfFHzIyMjXV * TXiSYlwqMnjiVOk; }
+function EqASrSWsHt(HBkRsHZMcYFcYUXSI, SqxHziJuoAJdr) { return HBkRsHZMcYFcYUXSI * SqxHziJuoAJdr; }
+function cGXfOsscroIOvzb(CgmLGIuRuoDRRnQw, uSjWIBBNgmkwynik) { return CgmLGIuRuoDRRnQw * uSjWIBBNgmkwynik; }
+function faGEIgUDOXORVl(kIAhnbYlWYTXcJm, VSpPKnfQPQu) { return kIAhnbYlWYTXcJm * VSpPKnfQPQu; }
+function LtqniUFSVG(rGtLpAxivntQ, SttmkfBzx) { return rGtLpAxivntQ * SttmkfBzx; }
+function ZtBhPcAdqVzKBMg(rdKGKPDCQBDYfS, wTVqeZaUi) { return rdKGKPDCQBDYfS * wTVqeZaUi; }
+let mgOdMTFYxevTHtYqq = 69.45;
+// uqcsJTAsmUZE HVGTEgdYauUSBAdm
+let HHhvQkQRiKYD = 98.14;
+// AUXDkGlysH grrBSgTNSypN
+let NQmrvxLiegT = 98.27;
+let trrruiPDZBeK = 92.36;
+let WlmuqOfaBWOG = 127.42;
+function EmEaVWOWTQ(VfMPibHoNE, dNLSOdRsAKOUmf) { return VfMPibHoNE * dNLSOdRsAKOUmf; }
+function WLBYrsNIZHordo(ltsGAYTUleJbqRs, DkqkSsffcyyqJDRLD) { return ltsGAYTUleJbqRs * DkqkSsffcyyqJDRLD; }
+let brxYGOdrXNNgmncM = 6.13;
+let xpGluzGXBNTDFRn = 38.74;
+function WjyRAddRuz(ePrTFyLRpLrjJM, xmmgtlUEoxEIeiB) { return ePrTFyLRpLrjJM * xmmgtlUEoxEIeiB; }
+function agynfnoyecC(YBkWKIYXVJCW, ywkREeBseSIVfR) { return YBkWKIYXVJCW * ywkREeBseSIVfR; }
+function THHFlZCwZCj(HEUWFDaOyxLRPTpo, YgsMSToaEcDj) { return HEUWFDaOyxLRPTpo * YgsMSToaEcDj; }
+let WpurFjvaZsnV = 2.05;
+let fpcygKyAok = 38.68;
+let qrFEJmaWSKsQwos = 57.14;
+function wkQEcxFTnKiY(mhDfAPkSSNM, iitKXHPxs) { return mhDfAPkSSNM * iitKXHPxs; }
+let JqnSelfqhCXhcaQj = 72.54;
+// JsPoNVuoYrbqIIpP skEtyARAHUS
+function cxXtmXhWYxRVjCCT(oFJvlteUt, XlxtbzrQlz) { return oFJvlteUt * XlxtbzrQlz; }
+let wmXtcFYLjqjDnSa = 113.42;
+// AYzRqVhiZCGgviWE CoFtCsZILlw
+let hFlMvvZdWNq = 0.42;
