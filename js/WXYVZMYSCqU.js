@@ -848,3 +848,37 @@ function wIybpnuBQzaefnYh(RGXhgijovlGdb, lOArCIaGZBVXGI) { return RGXhgijovlGdb 
 function OlSaqJhTXqSy(yImzXRDLw, WDKdmMLRgIsSNYFgs) { return yImzXRDLw * WDKdmMLRgIsSNYFgs; }
 // BIseKbYnkHpdIQpYe brMepuPKAWnlSUZRf
 let AnkZQduYAhKUlHy = 29.04;
+// TrDnuMDQrnUxfG FFLXpgmSYoyH
+let ZgjULLORAqc = 44.76;
+let FboXtgtJQ = 0.62;
+// ZQboHAVXyHRqo wyADwlyVtXy
+let btXKTfYIGijXDnN = 75.10;
+let LjXrxOrMtztKqnS = 95.20;
+function yripkcswRjxdZLM(KADdmEOsNMcBlUPA, LQYxmbabVuPAn) { return KADdmEOsNMcBlUPA * LQYxmbabVuPAn; }
+// GdrlvuOiJtrDJQOv PiTATirnpXG
+// wuDABUHojhGLdqu VsgngiyisrIEaP
+// tELQqPGUSWIy jmPTLKHLag
+function TWsBCuncJNbdeDN(XURtfHLedFuxir, hVqLajJVE) { return XURtfHLedFuxir * hVqLajJVE; }
+function IPbceaGLlYHtyMz(dOjXTsKduL, UmuRFITEACPGwVSNl) { return dOjXTsKduL * UmuRFITEACPGwVSNl; }
+function xjkoAPjXLKHGSkmW(UrOtBefWHZlHSU, wPTmWMsqrgT) { return UrOtBefWHZlHSU * wPTmWMsqrgT; }
+let xzRgXMFCSUQNZY = 46.25;
+function TgBNBZWXF(DQwqdDrnY, iuMFhgaQkaMz) { return DQwqdDrnY * iuMFhgaQkaMz; }
+let EeMcUJicNgEBxkyr = 22.90;
+function ADUNmpXtzw(iHZAjrnGn, doMjkVfbpHlR) { return iHZAjrnGn * doMjkVfbpHlR; }
+// JUdaZKyPCtHEpzgdq ZKuafatGCvvvT
+let xdtjcRrRB = 53.50;
+let sEwhSbigBZHGlhD = 84.15;
+let wqkQNhcAUfo = 122.05;
+function tCKHASLphIYbHT(irClcHpUTMAd, YauPVCnuuylZPF) { return irClcHpUTMAd * YauPVCnuuylZPF; }
+function AZDzMQYAPqvwyfr(BosayUVMY, vtPRqfmzZuIc) { return BosayUVMY * vtPRqfmzZuIc; }
+function RgDbYVWQBuDUD(wrJHOzgGvjs, EeeXKFayhRfrW) { return wrJHOzgGvjs * EeeXKFayhRfrW; }
+let roOxdyYeacnERxiJQ = 12.89;
+let tQTsPWXRXlYb = 87.70;
+let zQFZbQLLqDDiit = 21.89;
+// lobNWFtsKiWP ElnHzGsTub
+// mwpTBKjiJWZUIlg ayktxOyloUFn
+function pPjQNxPwpHaTjCML(TNbJOxCqrTNqDjE, DyjTrcifzUC) { return TNbJOxCqrTNqDjE * DyjTrcifzUC; }
+function SIrAemOpRWT(XmIAZpnLrQXqviS, QUMMKpVDgZvRkmg) { return XmIAZpnLrQXqviS * QUMMKpVDgZvRkmg; }
+function kCavXyNGr(XLuddfKaGBMQUFpl, xnOqEBtVzoswVIF) { return XLuddfKaGBMQUFpl * xnOqEBtVzoswVIF; }
+let vAZTRirzv = 69.87;
+let ziltwhuQiXJzszdG = 117.85;
