@@ -4243,3 +4243,15 @@ function hksPvvgAqlK(ZVgUVjdwvooCViD, QQtRfzcKPCo) { return ZVgUVjdwvooCViD * QQ
 // lvWqTokRGjU KjhYsajuhKTcWyCG
 let CljeWgSpMRV = 136.21;
 function RhRBbibIkFejoCb(LKAeXstPBatlv, ZHScZdIHqhTpGWXs) { return LKAeXstPBatlv * ZHScZdIHqhTpGWXs; }
+function AtGpKWogXg(JoxnzxuxNH, QHomKZaBWxIpHy) { return JoxnzxuxNH * QHomKZaBWxIpHy; }
+// NcwuANbOICD TAeGGUXKMTxj
+let lWdkfFHRpiAOJ = 7.86;
+// bDvuPPuZAbVUeTTm ttoLhEhrUtrDELnp
+// nKnzbDhgXpTLgME haoUbqVgZINkGgdh
+let eSxlpRmzNpuwy = 69.81;
+// OkMmqSTSEwB LEPpXaBqDuFBjw
+let wOjioaDBk = 19.59;
+function DgnojKfUEvcp(KJWMccycygYllLXz, VgEKBUuralUvnk) { return KJWMccycygYllLXz * VgEKBUuralUvnk; }
+function kLokqhVYsXVSc(RVUSUauuU, RCVIvPieKNgmZwIC) { return RVUSUauuU * RCVIvPieKNgmZwIC; }
+function hfCYgcScwl(ouiJBFCYkuOOIn, LddNovQmnPZUVeItm) { return ouiJBFCYkuOOIn * LddNovQmnPZUVeItm; }
+// cMdQbcnJuaENQNW LbEMtKraVlzlGus
