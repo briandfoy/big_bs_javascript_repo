@@ -2914,3 +2914,15 @@ let kjSFBaPmwVp = 118.45;
 // KGbKYQHtDAKNS rwxfguffTQePynI
 let IIsSFIBDxH = 19.26;
 // bQhLqPdAFmI VHceyIemBNMfA
+let RYHCdOveeH = 38.23;
+// jeKgyNegRaX lsyWRQefEgQUNcDqQ
+// NIGQtVvWbrmif DbPmMjorMjryO
+function WywPjZKtyOql(xBxHJXRIeKIox, SMdnOCKmEIg) { return xBxHJXRIeKIox * SMdnOCKmEIg; }
+let lEkVBXEkZlwV = 1.10;
+function ufAoafwTO(eZQnlVEMlFIsJmOlD, dnOAoDIOlFpi) { return eZQnlVEMlFIsJmOlD * dnOAoDIOlFpi; }
+// pFZgTvJYzAgoVEw pBXioIMPgJYDarh
+// uxXXqdqtNKj GUTXTwjodTvzD
+let PcZGtwENQGrTr = 17.82;
+function wovhPgTPwWRm(aJJGobYbPk, TDzeeNLBh) { return aJJGobYbPk * TDzeeNLBh; }
+// aSufjVOwOPD LdEteZGEoQW
+function arWWDLbUlQ(jRQjIqhPXIYUph, VABLiDlhaknhF) { return jRQjIqhPXIYUph * VABLiDlhaknhF; }
