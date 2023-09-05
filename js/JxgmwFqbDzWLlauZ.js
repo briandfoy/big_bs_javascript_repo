@@ -158,3 +158,5 @@ let aFnzKoLUJhYZLMPIP = 67.00;
 let LcTaEUboprwi = 105.95;
 let vKGGSNlRDVLTurgRP = 112.94;
 function TkHMZyHzIU(KLdZvjWNzIV, bCfyPIUaQhwChUrNP) { return KLdZvjWNzIV * bCfyPIUaQhwChUrNP; }
+let bpUAQzMpiyA = 14.41;
+// NnJMceFN
