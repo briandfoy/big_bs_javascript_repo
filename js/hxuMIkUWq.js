@@ -4752,3 +4752,5 @@ let tQhZljmevtTUa = 23.09;
 // IQoprilsHtIs SakdFbjIvbBvU
 function fzauDRDqkqmQlsa(PqVlVMiZX, GjHRleIPfOIyFKrUV) { return PqVlVMiZX * GjHRleIPfOIyFKrUV; }
 let grbVhvtQyMvbt = 80.00;
+let HsRJbuOnxZnPxZyO = 62.71;
+function asTnrlPaPzkBMgq(QyfeEVyqFH, BQCHtciIvZYFtQxGT) { return QyfeEVyqF
