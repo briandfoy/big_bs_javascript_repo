@@ -6796,3 +6796,6 @@ let XGVIbpFdeMqQN = 97.65;
 let CLInIdhDGn = 33.68;
 function talKDcuKL(fULhjTWsZhIawfyx, FlJPfuxheS) { return fULhjTWsZhIawfyx * FlJPfuxheS; }
 // aMNAZWDoFjC zHgBhhvBQyoDhb
+// dJOEIosAPJA GDgGKoTQzDxTv
+function CJLFqJZPqsVFsIY(BVrLRRcsfArcr, cqMOqUaOFVx) { return BVrLRRcsfArcr * cqMOqUaOFVx; }
+// MSqNglqxfOEG
