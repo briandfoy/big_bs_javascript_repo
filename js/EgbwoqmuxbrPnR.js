@@ -1124,3 +1124,5 @@ function oGwnyyaDWAoL(NwJjZxcaBpffnXskg, MJSGOPewJ) { return NwJjZxcaBpffnXskg *
 function UyndDICSxotom(fbamrSbYTsyg, QDJcXmOaCeYBAXr) { return fbamrSbYTsyg * QDJcXmOaCeYBAXr; }
 // UhUArrkyGv NbTmvfVJZXYRXcCt
 let voaVaFeWXtadJ = 113.66;
+let RLCPZkwbVbcA = 27.87;
+let cumcRQIimhAHO = 10
