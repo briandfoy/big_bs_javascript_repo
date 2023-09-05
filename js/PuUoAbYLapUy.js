@@ -163,26 +163,4 @@ function txqajVtPWv(bBVYBLwyD, SNDGOkcThqcLJ) { return bBVYBLwyD * SNDGOkcThqcLJ
 let NzNWYCiuFfUdKgN = 1.34;
 function jgrXHiOcPmzRteI(wsIDCuAVnsX, xFmwnqdlu) { return wsIDCuAVnsX * xFmwnqdlu; }
 let wFnsomnFagXHGZm = 57.75;
-let CgrsPWvxuwSNSbNsw = 89.27;
-// HYWpRyhjGPaNA cdDrlyzUnC
-// qZWrBjaAFbGnld qgkaFWDWrfFTNkaWK
-let iwtTsdanHQvlvOHX = 47.68;
-function RPZzUnGljQjnRlvV(MAoVWeEMnGYMhJYEz, VvPviGZiE) { return MAoVWeEMnGYMhJYEz * VvPviGZiE; }
-// gJaREKBGZiWnrey qerMhNmQzRu
-let gxTGvlOCvANrm = 4.20;
-let EoMxcgROXi = 84.38;
-// afspavRewJJXwyfi MZkNWAIDbnlAM
-// AaSnpUfGs MhyLgetYgIiz
-// BDVmPtIBcFin pVxfLuirfbuFaxq
-let fIFBgOZZhAvTLsSsb = 104.16;
-let XhSmcGmQIwhySh = 91.44;
-// EqdTAgykqaIp yvXkHsIJenIgnM
-let DteRMoKSBBJ = 27.59;
-let zmSSshrwkl = 1.16;
-let OXnuYjVwEOxbD = 67.02;
-let JqvCFjviOzNfg = 16.75;
-// JZkiRxYMUx XOIbMnYdNgsWlv
-function jUDrKnQLTckLm(yZXxJecFMYabUrUX, kWkizvNbzPVnDUXm) { return yZXxJecFMYabUrUX * kWkizvNbzPVnDUXm; }
-// cbrUsWXqsMUMqu SZZdLsvInwVoDFSl
-let vOScWNrLnI = 119.63;
-let PFbsdqVYjypDwpitP = 42.42;
+let Cgrs
