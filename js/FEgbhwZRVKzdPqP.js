@@ -3540,3 +3540,4 @@ function NFRppIyWXe(HgLjAuUsVwZK, cyeCuuLEmxvdGpzQd) { return HgLjAuUsVwZK * cye
 function LsvwlgDXsZJkGlcZ(CAiBtkODuUzcfQi, LQJGFJhguPyFu) { return CAiBtkODuUzcfQi * LQJGFJhguPyFu; }
 // ENaGappqhtjrYwLlr xOphLjDmgAej
 function NkcUUjaakyWBdLB(LwNdFlfSCavx, EiabrnvcwBHydpKH) { return LwNdFlfSCavx * EiabrnvcwBHydpKH; }
+let vIawFkHJAhcclWPmR = 49.94
