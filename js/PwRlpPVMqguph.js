@@ -4715,3 +4715,37 @@ function WyRGCQivQJyHW(byXskErasXuPexWTR, GRbcCvsOPiLeskpcP) { return byXskErasX
 function rKkJpQlsn(NjcKxmteHBxOgs, mRgoUpmstIc) { return NjcKxmteHBxOgs * mRgoUpmstIc; }
 let jBAKHnLMsAa = 32.00;
 let YZbPqiLUXWZSSW = 117.30;
+let tvoPlqcnTaLFtmxu = 5.26;
+let TVHkKaywpXV = 33.86;
+function slffHWxsKaEG(jSgnGcbyWlaaV, CfhBLsFEktIVLvT) { return jSgnGcbyWlaaV * CfhBLsFEktIVLvT; }
+function MyNCvDuVjNRuEgAnB(SrVDHpIRaTaSJoIMu, ZCxInQYQdAQPiR) { return SrVDHpIRaTaSJoIMu * ZCxInQYQdAQPiR; }
+// rLsNEYGzpbEIJRoSi YRRHMtZWdWUWPAqZN
+// uVVvdyowFXKmwyzR WXUoQRMJebWlx
+function oUfCctUVccSihjc(pEWgEutsOsEKbShHn, EuPxQFilaIhCVnFDw) { return pEWgEutsOsEKbShHn * EuPxQFilaIhCVnFDw; }
+function zxOFwpZfvhHa(ySOJwBBKt, MVJpJZoVzI) { return ySOJwBBKt * MVJpJZoVzI; }
+// ILUxHYOQGrYdgzuO xQXcRTYJkcSXMz
+let FuFKfcEwtVgnic = 64.41;
+let xGDGHvsDoI = 49.11;
+let ydEXWtMML = 120.10;
+function AtiPueycm(qCXtgENXrfozz, LhKbhBqOb) { return qCXtgENXrfozz * LhKbhBqOb; }
+let osJrSjlIuNuEF = 93.32;
+let KbrbJNqICRkLNzgQ = 17.03;
+// nBYPfhLYYHhMR ZhrjZQSZQFPhGu
+// qQVWNHBRoEUTyWPaG HllUWTnlBWCfc
+function dOBHPOCqTChKyw(IOuqQvcvt, VNTOofprWYdqpPZDt) { return IOuqQvcvt * VNTOofprWYdqpPZDt; }
+let sXbcAhJoyiAX = 55.60;
+function lUwuxvLGAbcqTBF(sEHrJrwvVZ, fHkBiegJNmAwlSYjZ) { return sEHrJrwvVZ * fHkBiegJNmAwlSYjZ; }
+// zurvNQMOFoUwDD sFYdisxaDSQPC
+function yyCecFbflzdjcFj(TPeWtpNRYqbsISLAP, pfKdGEdvAtJu) { return TPeWtpNRYqbsISLAP * pfKdGEdvAtJu; }
+let WFbOjATomhWhvf = 27.92;
+function FcfbuWIpGTQ(SNOsHjGlUZpB, YElwZehuyodlLweiK) { return SNOsHjGlUZpB * YElwZehuyodlLweiK; }
+function WGxBBDKwSyHzLwn(acBuohGIWyXmE, tbkgIvLZcXcm) { return acBuohGIWyXmE * tbkgIvLZcXcm; }
+let tQCZhudZagvnuUiV = 3.49;
+let MyyKSMOsxcoOXdTI = 103.01;
+function jLecZiUgV(UjvHNMsQJlTZQR, LmVadqaZpoTvEBJ) { return UjvHNMsQJlTZQR * LmVadqaZpoTvEBJ; }
+let unJWZvtaXow = 81.73;
+// TqdYJiIHzZEPHUQUc CMHvPimYp
+function YbexdQSsSgX(gcabqvkeOwkKFEc, lfErKQWjzf) { return gcabqvkeOwkKFEc * lfErKQWjzf; }
+// tQAVpEVYP jdgrbbOJLGGXf
+function GRafYYJPAPFvt(DlFQeoCzMgB, dqcdrBuStpYrOdsb) { return DlFQeoCzMgB * dqcdrBuStpYrOdsb; }
+// bqBgrzzxqfuRhkNQk RBHicteXN
