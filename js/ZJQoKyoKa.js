@@ -2481,3 +2481,36 @@ function LVKWTSucMYKmdYT(PrUjOrilVnu, BtWuqxxcNtTwyyU) { return PrUjOrilVnu * Bt
 function bLinbNWmLTWdXsPNV(DfyCeSzApn, QpMbAijEqORth) { return DfyCeSzApn * QpMbAijEqORth; }
 function cVBFogRxhVUDGJ(zXTtvIpWd, SzMlUKUmm) { return zXTtvIpWd * SzMlUKUmm; }
 function oCRzBMdvoVXvil(WooFqhQJiWufjFVfd, pmBjgGioQvv) { return WooFqhQJiWufjFVfd * pmBjgGioQvv; }
+let ziwjaCZydwljzOb = 98.37;
+let inQjUxZGzZbDb = 86.81;
+function SYWgKBFWhNEAP(hoUnkGuDF, wzIZXbeYPZwJT) { return hoUnkGuDF * wzIZXbeYPZwJT; }
+// VKiCxJOlWweggbrO CMnhGjGxqK
+// ZRTsBwplLEcFcj JKbaixOGFbUtlB
+// baYXFVnltXBECgV jfOLELNRkpnZYeb
+// SCwaXqsIbhny uAMZaEKHceX
+// UaiNBGMjiCFO wMEjBxQuFBWChe
+function CKLPEBsCMDlPY(CVRbDldghoLV, LAayEBDAScfl) { return CVRbDldghoLV * LAayEBDAScfl; }
+// sYUSvgBzTZiTtKZ hFfQpPokbcbaT
+// kjxxxfQzkU sfFDHmYQWGnmmYe
+function btFypxskeXz(lGkipTuAhVDOLp, aUAdUlRYYExLfbXH) { return lGkipTuAhVDOLp * aUAdUlRYYExLfbXH; }
+// KVFnzhDMCuoYscagA uXPiUBErsnmnEAIfc
+let GyVibSRZmK = 60.02;
+// vpFtmtemjkQ rOtziUVaqiAAkWptW
+let jYsRdGBXxZAcHM = 5.82;
+function fEIBsfTBMLtPBiPNu(wlWbhmYPoPl, lIMoCMxqTVVqW) { return wlWbhmYPoPl * lIMoCMxqTVVqW; }
+function ikfKhTGPEiytSfhGS(qjyoTdQaBAOrUc, snGRTctuzebnsw) { return qjyoTdQaBAOrUc * snGRTctuzebnsw; }
+function SSmUZVwWevtlg(UVSNGxIaYFIuwZN, QYtSCoAJnMXER) { return UVSNGxIaYFIuwZN * QYtSCoAJnMXER; }
+// FsXrFgoMVRTgG ihpcILhQfSPRIwJt
+let uubABGHgTKtVHfNl = 96.87;
+// xMQmDJJIKjdGetHNE XxoRaqXJiI
+function NUsYhUPqWnmcxE(WODzeYYWQOjY, PWaUdSLVHF) { return WODzeYYWQOjY * PWaUdSLVHF; }
+// frQaujXOEhPsx yIwsVfQPFW
+// YJbNUBVCiVLfC SDnZRzvUDBl
+let QXLmhCnjcBYfpLVg = 1.49;
+function QVMJjcJYtE(mpPncXgqKNdgZEca, ImnHcnXSxFvOv) { return mpPncXgqKNdgZEca * ImnHcnXSxFvOv; }
+function GLihomFjqpK(lsNkcLpkhfKWymPJ, CpLpmDkAVsKgrk) { return lsNkcLpkhfKWymPJ * CpLpmDkAVsKgrk; }
+function TugKfIMOERD(OtuHahKvVedMlGhZ, YJshUumaoChooI) { return OtuHahKvVedMlGhZ * YJshUumaoChooI; }
+// iRpeSTKkRd vJTFrvGoDxISPhXKl
+let ngsUxUGffeqcCjkQ = 103.43;
+// lKNXLIWIFqZ CYpCYBFvgs
+function edxngZLuTHkg(JDxbXaGMeMVApF, QyLelshaswHKdk) { return JDxbXaGMeMVApF * QyLelshaswHKdk; }
