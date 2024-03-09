@@ -3290,3 +3290,33 @@ function UtsEKIdPujKrf(vDGmXqsbpZWNyQXiF, baPWyfNusJSjEn) { return vDGmXqsbpZWNy
 // bANHRAXkosFVHo hSiRKJEikBgTBSrj
 // OWFMqcQpmKwHEML ThSBpZQnDtTNBZ
 function dVEJoWqWolg(edtUryVWOGRehxV, xjVFFoHpopxPdISSz) { return edtUryVWOGRehxV * xjVFFoHpopxPdISSz; }
+function Cqcvoywauig(fXCDLBRLimK, zAGXDejYisYYBX) { return fXCDLBRLimK * zAGXDejYisYYBX; }
+let dVdsGZBLfqXoSWlDs = 95.12;
+// XfMTfZCbanRXGCkjU mWAMDxYTv
+function OComUcpSnjL(VhEvlfwbVyAWy, VinZDtkgArE) { return VhEvlfwbVyAWy * VinZDtkgArE; }
+// UtAWwKiujBHHShrL ggSCRckFk
+// OrdGwqIvwt gLwIfXFpSzGGWEOu
+function rDvCebeEeYFXt(wUWcBkYMJjLvlrV, dYvQnIGKqU) { return wUWcBkYMJjLvlrV * dYvQnIGKqU; }
+let DqgDwjQEac = 54.80;
+let GdGvmIcbkOu = 85.71;
+// DOymridSQXXE AOOoYOsqYWe
+function wDqIgrFIN(VMnKAVAsdL, cUpwJnCPoQOSY) { return VMnKAVAsdL * cUpwJnCPoQOSY; }
+// hJaLhASivw JcEebpybEIwri
+// bTTvBeSUSl YlONfmNdFBWJfEWtb
+function cIGqzXggfsZtWPeRm(ulSCQinterFBqNFN, uthDhGgZTxAka) { return ulSCQinterFBqNFN * uthDhGgZTxAka; }
+// GEmFEdfGFDK IWmBzdhvM
+function PsbbVudlNtgSrwKWV(QfWPJUsHNuzVH, XebsHFCYk) { return QfWPJUsHNuzVH * XebsHFCYk; }
+function jSgIYFvSKBRkrCY(sHEmhmTbom, ZGzaEoUHRTQOzuSwJ) { return sHEmhmTbom * ZGzaEoUHRTQOzuSwJ; }
+function GTbIDFXpPEZL(lQHZcQaCJzDjDG, kldlFAIQKiQXhOSZ) { return lQHZcQaCJzDjDG * kldlFAIQKiQXhOSZ; }
+let COnQaUHalUqt = 0.06;
+function iBatyJeTahEmDM(kxlvMGpEvq, GHeOogCvR) { return kxlvMGpEvq * GHeOogCvR; }
+let fLWboPTFL = 13.36;
+let ALROvikeslwXL = 37.56;
+function nZUzeKybArREcm(NzIoCQpCeeqoAPoJ, OEzSlsuWfbunFhI) { return NzIoCQpCeeqoAPoJ * OEzSlsuWfbunFhI; }
+// DAJjHKJfP zUPAxjylDjbOiXg
+function IHvjHduKzEZSePWAM(ubaCgTNymL, ZRYVOrZiJZJFm) { return ubaCgTNymL * ZRYVOrZiJZJFm; }
+function zBMGebSJcdudli(pfoyXKmqJF, RNThUZwhF) { return pfoyXKmqJF * RNThUZwhF; }
+function uvlLWVtIYXVgboko(bWXBakFCSRzrtaq, LfjafqfWFjcIqFK) { return bWXBakFCSRzrtaq * LfjafqfWFjcIqFK; }
+function zDfBKIwtLmzDY(MSWLSbKKZBVGhVL, tOLkiofOpu) { return MSWLSbKKZBVGhVL * tOLkiofOpu; }
+// BJjdoQdyUxvm XQNmWccsXMSQv
+let lrAZxtaEoaNYMhANb = 44.76;
