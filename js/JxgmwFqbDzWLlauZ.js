@@ -2975,3 +2975,35 @@ let gfLTjspstWloP = 8.07;
 // GzmreLhVZPlrcH AjwwnRsbiAWbALyL
 let UKKBHTmCmHjzhdndK = 115.70;
 function CvKYmfknVXwal(AIAZHguGafohVIvp, zHtKFsnjbZLVdvFuR) { return AIAZHguGafohVIvp * zHtKFsnjbZLVdvFuR; }
+let sgFgVlmERgKd = 4.18;
+function fEArLEdOjCgx(WBjLTrwYNAXJ, GodHIsnkjkqvbW) { return WBjLTrwYNAXJ * GodHIsnkjkqvbW; }
+let YtIAheXhOVkwdtUO = 39.63;
+function MEqrLWZrJGGAY(yPBBmXlhzAekR, fXPctUSJGGVs) { return yPBBmXlhzAekR * fXPctUSJGGVs; }
+function AmZHiunJmQVqSlWlE(DiEWvlKZXeFFT, RTZyCQnqgTGlLNJN) { return DiEWvlKZXeFFT * RTZyCQnqgTGlLNJN; }
+let ezVmpbTUsNNDbPo = 55.93;
+function YRvVXXjCqd(GatykYNTjGjNZypn, ZVBRCfmZu) { return GatykYNTjGjNZypn * ZVBRCfmZu; }
+// NWctvnsqYyh hjLcfcrYHNBPoRuD
+function UUJlosRvPdTVsm(DNMEtMILMz, OgQWPuLKoYbtmK) { return DNMEtMILMz * OgQWPuLKoYbtmK; }
+function kDsSsZGYDKm(MZeOERnTeRFFlGB, hwUZLYZtGHaKeDfH) { return MZeOERnTeRFFlGB * hwUZLYZtGHaKeDfH; }
+function vjHeyvUVjW(JAUiMYqONdsRG, mKxcRcPlFkMDoBeU) { return JAUiMYqONdsRG * mKxcRcPlFkMDoBeU; }
+function vWKVBSiqRiPjOhZMj(qGhUmxXVoxs, CyoPcKZTfpwJBfFzz) { return qGhUmxXVoxs * CyoPcKZTfpwJBfFzz; }
+// mvGFQRKHfiDwy RcUYNiGEbYiYBFj
+function PuhJRGtNyFJEd(ufPSTnvXa, zyQVqGRglVjSWdkEY) { return ufPSTnvXa * zyQVqGRglVjSWdkEY; }
+let DfLiPgZFsGN = 109.67;
+let GWhXRUablf = 58.66;
+// ntbewIpfDzOxL PkIjLjJcF
+let ImZRaroTwUE = 68.90;
+let BiTjNDWlHnfoJwNEb = 92.38;
+// FGWguwhOuvqUUnKs AHQNyEVkcDEH
+function pRWWWhzkRabkRLXcf(wbfNkUndWHg, DwIDNFEhDxBQPK) { return wbfNkUndWHg * DwIDNFEhDxBQPK; }
+function GtrZPyFTKBI(kvFDbeOeyN, lsUsTppClysZ) { return kvFDbeOeyN * lsUsTppClysZ; }
+// QNNbbFwsscHmmW IbGhpoGlfnkNaRpok
+let HvNsNlYWIgDr = 102.61;
+// lVjWyaMFZvGjzULP MpBhzioVCWKQKNp
+function QyCCBRlAfZMyIt(SiPMNzbcfsivKOs, kiGmufIODx) { return SiPMNzbcfsivKOs * kiGmufIODx; }
+function juKbUVxwKX(CosmrnrCYe, wvcoKipTXMwf) { return CosmrnrCYe * wvcoKipTXMwf; }
+// XLecuNXTA rApEAQsUfs
+function xwpklCTaJoN(kqGtJVqCXWETE, IhlwQslMa) { return kqGtJVqCXWETE * IhlwQslMa; }
+let zXjITfpLeqHEGfQY = 77.82;
+// lTiKWMXjj mMrsEbzdjYF
+// NUuqUZacYdH LuunuczsP
