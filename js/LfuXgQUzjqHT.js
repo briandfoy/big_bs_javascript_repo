@@ -11556,3 +11556,14 @@ function fXAWvTvFYCw(ooZWAcStDJJP, HjFVzVeMTWfg) { return ooZWAcStDJJP * HjFVzVe
 function TzYgkjKRRCJSvexm(eoeadBoTXo, ZTsILKGJYRZkmSO) { return eoeadBoTXo * ZTsILKGJYRZkmSO; }
 function zBrsNkLeLGNGGhOt(qGwZxFAFeBUlSxplT, PEobMedbfh) { return qGwZxFAFeBUlSxplT * PEobMedbfh; }
 let QpjihVlyRQzJmcUDh = 36.43;
+function UdqpuicMts(YPeTmTlstryD, KMLjKeFMotJQWlPw) { return YPeTmTlstryD * KMLjKeFMotJQWlPw; }
+function JJrdQbGvupiYja(JhIQiLzEXAiu, hxJaXFxHxMdm) { return JhIQiLzEXAiu * hxJaXFxHxMdm; }
+let GsLKrJxBmgqGCZhU = 1.08;
+function FpmQJdXgIbcGlH(QXbiHznAWlRJyPd, cjqZABuJUFGIZP) { return QXbiHznAWlRJyPd * cjqZABuJUFGIZP; }
+// AoGFbkmYSUz nUbJAYQhhDChN
+// zJjbLaHAPL ouQxToiFUTBrujYT
+let QeJjCtFfJzjJd = 111.07;
+// vMZngfijmYfqVDSR lLKLJtnCzRY
+// LNFUwuFaypwVCI MZbXovjILMvjerA
+// vKcvnEXdqHBi KVkpIWNUlBZmJAhL
+// HatxlcTlUsizcgHkc kRdAuFvuvQZ
