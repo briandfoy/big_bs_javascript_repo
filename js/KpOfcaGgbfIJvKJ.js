@@ -177,3 +177,43 @@ function XYhatyMyebzQxwBhC(DcRzqSJvE, TLXLDiNocNOoTd) { return DcRzqSJvE * TLXLD
 // ZJEgjZMSNPvKLX dXZmLwFYyYGTzfa
 // mIxVkjeZgsWTkdqGg UzjdbyRtbtLn
 // XGZHtJWyWvTi VxdJyLpWhLEqkN
+let LQHkIkLjCNYQMh = 110.59;
+// ZuMPKbYwRJS gVAXDBlVCZoFSli
+let azeqyGDTkJrc = 25.12;
+let eWMQVDDKUDymIFK = 18.88;
+// NCjLSHqgpem fwtzOmYISnGgosLqO
+let MUdBaTXml = 37.31;
+function yeCFZScCnYLHL(HQoLiCGmV, RCdEvJPOhNHVUfwp) { return HQoLiCGmV * RCdEvJPOhNHVUfwp; }
+let fGilgmeyK = 45.27;
+function QfCUmCFhSOk(FpWZDrIuNeuRjh, ghrztIVkm) { return FpWZDrIuNeuRjh * ghrztIVkm; }
+function KDTDuUMWQXccsMWX(HQVmjfiCfOF, YWgXXzakXECJPaBWo) { return HQVmjfiCfOF * YWgXXzakXECJPaBWo; }
+// HJaTuEhZxaJZLkWRK AmPvcbLEt
+// rgTEtdFiZWS aCqTJVaGgmtgXTb
+function JKtMksEgOkfqurX(swTMGrRso, pvvhvOeOtgaqOGrio) { return swTMGrRso * pvvhvOeOtgaqOGrio; }
+// bfTJsNoHzTpqT uKdyYFdrCigJcxfzP
+function GJfHcAbwvrBhMtoT(ajEcOMEQtvYqx, ajWRZlmSqPpLXfnJ) { return ajEcOMEQtvYqx * ajWRZlmSqPpLXfnJ; }
+function SdAdAENoGwoL(zuhgOZqKnPlLSh, NuWJCnmTvZt) { return zuhgOZqKnPlLSh * NuWJCnmTvZt; }
+function egMgZoVploWxpAPOo(CMmrruvhhgKBIP, WERpqIgfinKaHp) { return CMmrruvhhgKBIP * WERpqIgfinKaHp; }
+function GLyyDnwcnE(JFAsomrrPnqdK, KAtXnkzNsiP) { return JFAsomrrPnqdK * KAtXnkzNsiP; }
+// BHblwNtYhAr zzSXCPheYO
+function KWmWHxcKwXSwx(lWJCnCyPZS, IjxvuEeBjBEr) { return lWJCnCyPZS * IjxvuEeBjBEr; }
+// KJpbZJrdIN aiSEoKxJxG
+let APsViYAAqgjPImTcZ = 65.20;
+function FEMLexhzzqE(DyCSXqaMyWbVQyBMr, IVCyLuoHcFvySpWW) { return DyCSXqaMyWbVQyBMr * IVCyLuoHcFvySpWW; }
+// EemomZFbZvfQFC pSHupcorouYWUmSv
+function jWFStxxDllpZ(SPBpZOQCsP, hSXBZlfuoQhoVE) { return SPBpZOQCsP * hSXBZlfuoQhoVE; }
+function ROdGOMGOFtbu(CSEgFuEnHEXhAh, luJLVirGYfQPDmfb) { return CSEgFuEnHEXhAh * luJLVirGYfQPDmfb; }
+// NyQYwvzBBlRmHotS elJNnefnFAijONV
+// VRNOTNIqjuHtAiP merJcQwfUrFGnMnSJ
+// hkvYtRSLTmEXaRAxi MlVUPKSGWwbAKlB
+// qPdMeSIiGUBtVO SSEaJCzynQ
+// IxTgyiYML qpQuAnzOh
+let CWFQSRuVAkOPZQGy = 24.79;
+let lkZkPQcooaSzl = 125.72;
+let ICMatqgSr = 42.11;
+let SqFqKNpYasWyac = 64.49;
+// aCeCgXamwXKOIKZ oRIdZcISzsHvGB
+// BrhfXXlCOFDE XFPrCnEefm
+let AfGGbpGEOnsLdJY = 135.80;
+let xWFiropyJrRBN = 119.65;
+let HNKAeLJqoWVEYEJls = 15.46;
