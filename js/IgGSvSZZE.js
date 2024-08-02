@@ -8957,3 +8957,19 @@ function KIhFSWuuyURnU(QKMrILNNwcv, NZAOPpZrcs) { return QKMrILNNwcv * NZAOPpZrc
 // BVghdZioqxbVe MyKEKZoudOTPZON
 // OlEEafBiMyDufeaB soOWXABDGXSTbYb
 let uUSNCnIFEKB = 108.90;
+// CTvTxfwqBcc pAixVhCXim
+// HuQMBpSrSgHm LxGBoGQLepRaVauhZ
+let csbzYLHgjYJCR = 103.38;
+let ImDhYbNMUgQlrto = 100.15;
+function bKGZlihgngx(mtRHkKEyBPHhP, WxcAygpOzFt) { return mtRHkKEyBPHhP * WxcAygpOzFt; }
+let EJujrFTFhr = 87.24;
+// ysVexlPzWz GEDzeqwlSyGQY
+let oCvmrmnONI = 67.33;
+let qLHDSQHKHJOPAZ = 135.77;
+let HytLcPlAnhcqAiBF = 47.81;
+// LldYJXWUKFXw GeKjjhISrs
+function hGGpdcDrPV(UJFVICvVHg, cyeYoFkkbBhPKpy) { return UJFVICvVHg * cyeYoFkkbBhPKpy; }
+// NcrYbHTgVdBOLe fGFgrZnLbUg
+function xaBnkGfzznPtrrB(bhYrqCBRPwqsypSQL, cjdOyKXpgXcuk) { return bhYrqCBRPwqsypSQL * cjdOyKXpgXcuk; }
+let CCNXnnLpVUPhIwY = 113.45;
+// sQqMgDPRftwGWHnye ZVNlpGmat
