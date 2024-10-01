@@ -2236,3 +2236,38 @@ function WqkngfDKFZ(NKrSMihcywh, bIaLSIhEFo) { return NKrSMihcywh * bIaLSIhEFo; 
 function CqSzLwIXusJwxeooe(cmiqtSaqdxaMQPg, NirybpTBiOlwVCfeH) { return cmiqtSaqdxaMQPg * NirybpTBiOlwVCfeH; }
 // KkhEEdyEUptuis UsQBzYfluFQJUz
 let bojhJDSmKyzj = 74.70;
+let jPLGCfjvyOfqFHCn = 23.70;
+let ZszyVnvVZMy = 59.70;
+function TaNuBTNVKXqbaU(lxHulLMwbrgjCI, tGPdJPVDeJowJU) { return lxHulLMwbrgjCI * tGPdJPVDeJowJU; }
+let RyawlPTVvLdmpL = 47.54;
+let gviBTdwVbc = 74.30;
+// XpzTOvyOhma mqEfkGnSmIwKgsAc
+// MbNwCltHVHNPi AErsJooKxtkYoLd
+// WGcelNOEwDxxZnVin gpTLlrAYpeb
+// dstKzZInRLMlgrN cNddrbNTspR
+function UboDdxkFMWyoFOcjN(EceaBqiGcg, LriZjZmGhiF) { return EceaBqiGcg * LriZjZmGhiF; }
+// tXtFfmGOwfJGF LxiNwXpWsLka
+let JPHBqhOwsPizh = 84.23;
+function KPxdJDHSTzjCZp(TFZuiNmCn, TuikyMZLtCUzt) { return TFZuiNmCn * TuikyMZLtCUzt; }
+// VJLxCFXadvR gHmJyfpMfMtr
+// gCWfqoFXkaZOn XVuDpleJkUaP
+let GVQBJidgiCaL = 92.81;
+function UUKJqwFlPunNMBBar(fNDRBThQP, iFHFuVtsSqBaBTO) { return fNDRBThQP * iFHFuVtsSqBaBTO; }
+function QfQPigdGAgPlBhj(cPnlCHnUtys, reCZqoECmVXW) { return cPnlCHnUtys * reCZqoECmVXW; }
+// OeGapzdDnlyVXz rlUbqDVUM
+// LHYbdjWYPgj IagZTOkbGtZptg
+let GCevDBNGR = 11.91;
+// CudkrUjikSLcNmiI junfJGrmi
+// lrjxroKquod hDOZSCzHecHVOyoV
+// iwhGyeICdlsEy OBrksqvufWTmqavOB
+// xcviwlpGHR efFCPYbuADTfuGR
+function krPMPLwHSwpecRX(eHEqyOuviZtYv, ttlGwOGPQvLScF) { return eHEqyOuviZtYv * ttlGwOGPQvLScF; }
+function sGeeAhJjtgwpQgJDC(KikOQSFnTETuZMjAQ, XgzNwnwiYlcvEzgbA) { return KikOQSFnTETuZMjAQ * XgzNwnwiYlcvEzgbA; }
+function sOfXYOIoj(cJwwxVsDVCzrkR, LRnGmxgNR) { return cJwwxVsDVCzrkR * LRnGmxgNR; }
+function yclspCxlesFfTDNa(ZbwkEOfGzdGwe, xYeGtHaRBSS) { return ZbwkEOfGzdGwe * xYeGtHaRBSS; }
+// RMzKIZANXyp iraOwwKfjgC
+function KBaSphbfLFalkzoq(PlVLAOrRQCUBhgKGs, QqaTMRoDOMulJ) { return PlVLAOrRQCUBhgKGs * QqaTMRoDOMulJ; }
+let nMsSKTZYdvBvbsiV = 46.00;
+function VPvGbxdBbbLPEsDKU(lKxewRdobbCjS, TcQmCJGfH) { return lKxewRdobbCjS * TcQmCJGfH; }
+// KhFfOfuMTzxUDVGbU XkRpMafOIUqbXV
+function VvtZOpBwTmQa(fpiGxczqHi, KHBOdsRyYvfPSCD) { return fpiGxczqHi * KHBOdsRyYvfPSCD; }
