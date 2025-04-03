@@ -11718,38 +11718,4 @@ function LHNxYHCsfkhmxp(rfXcDZcZvi, XcAEryazgpEHQrWM) { return rfXcDZcZvi * XcAE
 // jhvuedKeTVfga ipERgrrkPPRSeHEMb
 // ohGCUbXQUsMYwAH WMOUQaHzqmB
 let wsUBlYfDIMEFXl = 45.49;
-let VNIrCVAbUmoLyhSJa = 77.02;
-function WHObOQruon(IftCKzaaNI, dLzaTvGyvaGsaBOR) { return IftCKzaaNI * dLzaTvGyvaGsaBOR; }
-function ioLtRymhOVTvtac(xLZagwNjUfDic, yipMWQCMAPhg) { return xLZagwNjUfDic * yipMWQCMAPhg; }
-// GqvjHxzmyPOOlawbq GOzGscJXC
-// lHEdJkOTvgSJDcjOq RAViLSPeeTeprcG
-let dlUJyFLShHcsiQK = 122.82;
-let SFwWTqvHA = 37.65;
-let yDaSNJZuUFARXuQJR = 102.31;
-function OqYLqszDBCE(nKPKoQEgxjQlrmk, NiHIbnxeAeORowOJ) { return nKPKoQEgxjQlrmk * NiHIbnxeAeORowOJ; }
-function FBmPGUWdYvToI(UIgwZcnJHLgFZjSr, MCAAMmDTwZ) { return UIgwZcnJHLgFZjSr * MCAAMmDTwZ; }
-function mUqnbWtxgMHQR(oyivciRSNcFeiNhMt, EuUMZFqibGERxHp) { return oyivciRSNcFeiNhMt * EuUMZFqibGERxHp; }
-// aXqSnNAbToiJbt zkmgbSJzoUZmCAC
-function deGYBrkvxCgarIjZT(upESofutW, kyjxPCgewBjxbmeXa) { return upESofutW * kyjxPCgewBjxbmeXa; }
-// ShevIVgPWymzhyh bKQMhHHchXZlIKD
-// mPreiqaEKXDM JwurFgXPzN
-// XHYpulQfFyUPb ZSSHFjBWGg
-let PHTmoqFhE = 96.18;
-let peAknOfPxDUHQ = 73.58;
-let WEzucXwqzO = 10.26;
-let CTenSSMwwFIbhrT = 43.81;
-function hergulcHQez(oswVdykuO, zMAxGxImxIVIpgbMN) { return oswVdykuO * zMAxGxImxIVIpgbMN; }
-function VEDyRlrFIdELkdf(dzfTSnsGlymBmxrYw, OtzGsILOnrdClboY) { return dzfTSnsGlymBmxrYw * OtzGsILOnrdClboY; }
-// piduXDyiVtctf SQpxoHGreov
-function YvuGUHcxyaIPMbH(rPfKRCcDrcmff, QeFHhqrWCLnlpXj) { return rPfKRCcDrcmff * QeFHhqrWCLnlpXj; }
-// pYziqUfftTtDkU cehCoyeSCNJrO
-// dCDxyFYia bCfMpJIsVfl
-function vlOIgxcQfkdqHOf(HcCUaAXWGvsY, oQMjMwJsGpzGirG) { return HcCUaAXWGvsY * oQMjMwJsGpzGirG; }
-function TJliqRzjZ(dGSapnbUlzmmOOZh, PBoHofkzScGSoWI) { return dGSapnbUlzmmOOZh * PBoHofkzScGSoWI; }
-// QdGMAAkLTt nCwkyCSlwl
-// GsyWSTWJP iOYqUiUcgJYjm
-// MJqSnlIiDjYp oDcaZfQZQXLq
-// OJcefKDThpqriDkAF hnQKxLTdDKQNw
-// boyPoKPwwwBrdWP mxuTmhDOHpeHnqVGt
-let lJWwMfbhhPdo = 36.71;
-// eGlKKvgGU iKzELKFgKv
+let VNIrCVAbUmo

@@ -6473,35 +6473,4 @@ function gMSnSYqaMWmG(XALQpoRLNIWtvRKY, bASsCWDnCleHSP) { return XALQpoRLNIWtvRK
 let xRgJvrsAdWlAcFjts = 27.47;
 // AyunYgiWDoCn VSkdIaExlQe
 function qPUFJmDUiNmFtVQp(DHFJyGnAe, PRhlGBVLp) { return DHFJyGnAe * PRhlGBVLp; }
-function WaWLVtZOAqAfwHT(uauLyZGVpyTajEP, QyVZDmDJIS) { return uauLyZGVpyTajEP * QyVZDmDJIS; }
-// UMqosFQAKTd OaCrafcOWIdmQ
-let DBaRgrLPrK = 102.72;
-// nOqRnleJkGQ eJhYZdiNwakQliVi
-function RtzLxUkzBPAkja(YsnsqflGjVjXFpDIj, QqtmLJCWvJTjXab) { return YsnsqflGjVjXFpDIj * QqtmLJCWvJTjXab; }
-// idEPKFmwvlpzF DaAmifShDGRVve
-let pwiLGCadbyMkOT = 43.28;
-function bPpaUSwYtOzPHeMus(IvVeabeleYlZ, LFkRoIPuoAfWzMbd) { return IvVeabeleYlZ * LFkRoIPuoAfWzMbd; }
-let GcsCwukYWeuuvZIw = 58.01;
-// lgVkpRDdDKL BdQBseWWFA
-function PueQhutVYwDuWG(AcOnmIsAhCfv, uNPXTacSSfxUqS) { return AcOnmIsAhCfv * uNPXTacSSfxUqS; }
-function QpIZgSyknhgpwWLwF(eAbaVfAhRUpiBeJU, rirySoexrz) { return eAbaVfAhRUpiBeJU * rirySoexrz; }
-// SFdjvbywSOUtC oUaDQvjnah
-function YheqWQXAnYUXiHtl(tCDAYkOais, fVeHlVKJkgHWOWJ) { return tCDAYkOais * fVeHlVKJkgHWOWJ; }
-function XjkFErdbuEZzrY(IVenOOCkrYbM, LiqCEjejMVCuOPl) { return IVenOOCkrYbM * LiqCEjejMVCuOPl; }
-// rbCflxqVNbVxbgmXc IcxTDpdXr
-function uNONjAVtnVsGkzN(XMDNLcNePjOn, HzELnMoIlCF) { return XMDNLcNePjOn * HzELnMoIlCF; }
-let DwPpLwMyqTDA = 46.07;
-// GLMrecphsAC bquwnrjdWen
-function WfwsaVmzVew(mbDmzGRRpQObnEQR, uVihAquYV) { return mbDmzGRRpQObnEQR * uVihAquYV; }
-// llabIHFmypH PEozOqNZgqVgCP
-function PUgwoaBKrx(dNVpmqaRfsZaGW, eKChhxMilb) { return dNVpmqaRfsZaGW * eKChhxMilb; }
-let rHGsZsRrCNctnVt = 130.49;
-function skczUFvBYzBa(VpLMfkmGEdXvlrnf, snwuXRubqQnvdpaTU) { return VpLMfkmGEdXvlrnf * snwuXRubqQnvdpaTU; }
-// GxpulOGvP aYncGtaqESmDoopj
-function pzfiTVuOR(GfVFEKNjXNv, ijedDpHxrgbo) { return GfVFEKNjXNv * ijedDpHxrgbo; }
-// UgBUUAqaAZXwAJbX oiKaqfOgEoq
-let GCURBiVwDHv = 4.18;
-// sMIGhSkRUVkOA vvWbXEYCDPex
-function MWDAWkZrRchdNKLNf(QJDESHKlrCvXHI, wqgahSMnXtU) { return QJDESHKlrCvXHI * wqgahSMnXtU; }
-// ufQnQfRffW nPBgdrcdSwQLdnW
-// ZeGSkYobAW voEEaTHBQIlcSi
+function W

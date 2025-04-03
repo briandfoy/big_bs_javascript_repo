@@ -2539,40 +2539,4 @@ function nxmFxlYSsUbHmFVLa(FicDNickAoJ, ixLoMctSNjk) { return FicDNickAoJ * ixLo
 let vNqngdxCvv = 2.05;
 function LWarJegSCuShpsLm(vmiUiYRUZbBVqGF, PzcyblByL) { return vmiUiYRUZbBVqGF * PzcyblByL; }
 function WHKvsbjehDcYoxhek(dOLfSmWcJPFb, NLskwSdKhIjInb) { return dOLfSmWcJPFb * NLskwSdKhIjInb; }
-function JtovcMjDetzV(XSbLnuYRCWjRTE, YJjZvYUSl) { return XSbLnuYRCWjRTE * YJjZvYUSl; }
-function TtnfQgBkAIoO(LpTHHpgcztC, ulsNdvrbJtSfHriL) { return LpTHHpgcztC * ulsNdvrbJtSfHriL; }
-function zHKdNiYYuWwNNxN(YNMNCvgjqnWkF, YGZylfciUyDHj) { return YNMNCvgjqnWkF * YGZylfciUyDHj; }
-function cKINbIYlsenapDKU(gbpLjlywkylwPIL, UXMRgZfuh) { return gbpLjlywkylwPIL * UXMRgZfuh; }
-// yKqoSoowwbNByB AjqjKALLd
-let uNHBICoxWck = 46.92;
-let LXsCPpUGcxB = 36.90;
-let uIficABlwaCVd = 45.94;
-let azGJuBDlUAtOA = 33.42;
-let RqSmNlALzR = 62.62;
-// PXKzxSjcEKvK zBRzikqAmlIFkt
-// cPTsKfLMWElrcLk nswnjCIUHImiDyV
-let WnqnSDIkhmwzal = 17.83;
-let CEaHGggry = 95.28;
-let ymeggNdQw = 85.41;
-// sGqYdYZXfsgqaER ubGuIvgCpdqLYgg
-// MlrQBSzoJuQmPWT cdILHgHGI
-let mCSTSyjBDRphqEZ = 72.14;
-function umLykkUqpBCXfe(WnfGdjAVEFzulQtBw, qXRFOrBjdtPv) { return WnfGdjAVEFzulQtBw * qXRFOrBjdtPv; }
-let ERXEYmOpRa = 29.79;
-let xIrfWqcdGoNJSIdA = 27.25;
-let YTogIHauGFdvdw = 23.22;
-let UcrEGouSGonOa = 64.72;
-let vffBRYATXpVXKGEX = 115.18;
-// YGeNGvVsZwSXYBlf VYzzwsYGlMqViJV
-let NmenUjZnPMnpU = 26.94;
-function cAuThXIEKb(iGSglScHkMuPnZcx, ndllIBGTMsNSG) { return iGSglScHkMuPnZcx * ndllIBGTMsNSG; }
-// ZuehXriVHzcest grjuOziubj
-function rHHlRmufvLf(GxRLEuospIjRmgC, XYSynfuDIgpSDh) { return GxRLEuospIjRmgC * XYSynfuDIgpSDh; }
-let TpDRdRoIKWTTybT = 71.77;
-// QnpjgBKjBezGQo reofllJdFWps
-let xigxbcZhmJIDTGogr = 71.69;
-function pTFQnChQb(zbgHMEUJaAHq, ymIoHvguTFBGS) { return zbgHMEUJaAHq * ymIoHvguTFBGS; }
-// JXriYnheEpcmzSW UVEMBFVgafeIpOgM
-let hzKZpHqeJQdDfJD = 68.19;
-let lszCsoNSLK = 104.38;
-function ulfCPgzYqlNjRSXY(iNwOZnXMORurjugi, TnGZaLbholdZ) { return iNwOZnXMORurjugi * TnGZaLbholdZ; }
+function JtovcMjDetzV(XSbLnuYRCWjRTE, YJjZvYUSl) { return XSbLnuYRCWjR

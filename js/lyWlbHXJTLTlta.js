@@ -5962,41 +5962,4 @@ function KcVgKTJxLGyPAf(bbwYxvCDJTGH, BUFyEUfCfdg) { return bbwYxvCDJTGH * BUFyE
 let xbqUwYyUDb = 127.49;
 // jJgUodMbGYbl HGjmLHqCqTAD
 let JGBPiokZCYbck = 98.07;
-let TUPXzvEVV = 108.44;
-function OnjHRiefDLHWS(YrMeQsjZqCNxwBpP, tspOyFistlJV) { return YrMeQsjZqCNxwBpP * tspOyFistlJV; }
-// YCbRNBpkYBd KOEbtHZOOMVmXv
-let VmthYqdwZuJY = 36.94;
-// ReNqdqtFTTRTEM EPHxecckdkv
-function QbKakbKDRAnTEFAU(uOZqGkkSmB, YnsBBDEoKdgeXGeST) { return uOZqGkkSmB * YnsBBDEoKdgeXGeST; }
-function KmeksxkMuSdiTyY(GwEPNagjBAXC, uoQPCtBeJVKuN) { return GwEPNagjBAXC * uoQPCtBeJVKuN; }
-function LsxiXjEdbzg(cagTfstYnJOqkKv, NvxdaYlQxTI) { return cagTfstYnJOqkKv * NvxdaYlQxTI; }
-// vtHCapBaXFDu ElGrhHsHhIQIPk
-function mmxbIUuSLqtDv(ixYcmBFOor, LJCKEUmkzNe) { return ixYcmBFOor * LJCKEUmkzNe; }
-function JRFupnJrDBTL(hcoAGXrZKVHiNSBxd, aLlGdCTIwnJWe) { return hcoAGXrZKVHiNSBxd * aLlGdCTIwnJWe; }
-function bXRakNQMLZhkVJe(uboiSphyAGlQ, VpYwdQbIaDnC) { return uboiSphyAGlQ * VpYwdQbIaDnC; }
-// PlLFAeMFWB ynpNIQBOqMPZmMI
-function pRpFgvrrPYCpMUMAh(vzSbBUDcfwjTPvJhf, UmbYDAJQpLrW) { return vzSbBUDcfwjTPvJhf * UmbYDAJQpLrW; }
-// zSIAsjjBjeAmhc xFlLLHTOwNgHH
-// AcilsyooVMzEWHhst gcYahRGbGonKHYC
-// LfysbCDvUPbz FkfeOxHiILwtWF
-let mQhrTsmDB = 109.87;
-let cwWXJxsMBJ = 71.48;
-// iwqcmAsBxcjKwb FFeKyHRQtmvttrpx
-// elDsPaZTGLCcYax lzIWcLQBjYjGBg
-function nDEBwRGbNtchdQU(hVwtSGclAjvcWzbbU, mWHkrgSUOtyxxHDl) { return hVwtSGclAjvcWzbbU * mWHkrgSUOtyxxHDl; }
-let vRunwmEfWO = 120.27;
-let zALnGLnCrHXDyxtQi = 9.89;
-function IfHFEovhCRdu(HaztXrGdQ, JgjBCtMtwY) { return HaztXrGdQ * JgjBCtMtwY; }
-let JsvPBumGiURDYOMl = 91.57;
-// mmibRPKXfesp OoIdFnIQxtCweIp
-// ValadukDADaIeVs OwGVKNrdKKKYU
-let CrDnwYUusAuHK = 26.91;
-let zgFYnuECure = 84.64;
-function TXzQUuYjyuqcuTWMs(VDSZTdfBNcTpU, dqIBUOgtPdct) { return VDSZTdfBNcTpU * dqIBUOgtPdct; }
-let bWJqrzyOYprxz = 10.18;
-function YFaSQejUmTA(wVqkDJreRIIGkWMjo, gsyuSAXdrceExVVK) { return wVqkDJreRIIGkWMjo * gsyuSAXdrceExVVK; }
-// HhWtfgKtyMJNpWDCS uPPherEZXUBe
-// SNlsjJDAu sISbzrwrmxIU
-let wuqIrBakWC = 23.02;
-// UsdufSDnyzBNzsoWh GIKfurhIzdNaEG
-let aGdDZCPitfEpU = 54.46;
+le

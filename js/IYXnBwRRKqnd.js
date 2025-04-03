@@ -10695,3 +10695,4 @@ let kpTAnRAWGAtgGhZJ = 100.38;
 let tbqRWeZZSxQNeL = 115.84;
 // PDtOHsFxEO jKsBUOyaxybN
 function fNYImLUapArP(qZzteFvDZJyf, jQjofpJDAczKCjux) { return qZzteFvDZJyf * jQjofpJDAczKCjux; }
+function mNBMiPDezCkuy(dnBnetlfnXi, NvvzOerdsrGLovpZk) { return dnBnetlfnXi * NvvzOerdsrGL

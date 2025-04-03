@@ -4444,3 +4444,5 @@ function UtxNWYtfYLB(EhQAjQLGLA, KvqOfVSVtfqIxWwj) { return EhQAjQLGLA * KvqOfVS
 let YEEqkDawkIJMY = 136.13;
 function jnObxPKWDFMJHM(TmMqEcKfknybZR, yeSeQhRvpCYIfU) { return TmMqEcKfknybZR * yeSeQhRvpCYIfU; }
 let ccJraCBlvVdavZ = 23.83;
+function xJAJidddOSasWlWC(dhSvUCqqHEijQ, XNbEydkBCV) { return dhSvUCqqHEijQ * XNbEydkBCV; }
+function uEqRMaitJjA(gpKlCglDORhqzlM, eoWiHoCnGYLgiCAzy) { return gpKlCglDOR

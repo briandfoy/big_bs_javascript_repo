@@ -320,7 +320,4 @@ let QLWXErOJs = 133.84;
 function hCrFiiTiAYLVYOqgc(oZFZBvLTfYb, sUTZRueKlP) { return oZFZBvLTfYb * sUTZRueKlP; }
 let WMUViFKvpeRCw = 32.69;
 function cdBsZTtjRwHhh(NAWKwrwbfLlHcq, enjEriOdrWj) { return NAWKwrwbfLlHcq * enjEriOdrWj; }
-let uwTollUXqyicqPo = 38.88;
-// dyPYDpiAa HgTelYHDlrsDFMhdQ
-// KBWkZARnVeibTUgE UpSqrmlezMr
-// qjwJUzoiPz OPHihDpxo
+let

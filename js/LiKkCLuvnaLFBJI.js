@@ -631,37 +631,4 @@ function YpBtjtCzGnV(tEdYKpbrAsjAKl, jDSrJsNFMGuNGruHw) { return tEdYKpbrAsjAKl 
 let CQDBITXCLmuY = 114.74;
 // bwtuqQqTPUNp zTuEaRTPWpzNlyEe
 function aQjDPGHjfAbkHf(CXavjhLAtQBQ, qbjPmTMNaow) { return CXavjhLAtQBQ * qbjPmTMNaow; }
-function DQTEYmdjmhEWC(MJrCXWueip, yOXbuhqSBEzAIixuj) { return MJrCXWueip * yOXbuhqSBEzAIixuj; }
-let ZtDnhKMNxsa = 90.21;
-function ldqOcuekWCjNJ(apccTOsMpM, WDuYCEiIyLmyUIuTy) { return apccTOsMpM * WDuYCEiIyLmyUIuTy; }
-// mLgkJYSgvWV QdabhVaMaBQwxt
-function sPjXNSUkedki(efLYbLLMtXVLBSOZ, lxoldFYbIdV) { return efLYbLLMtXVLBSOZ * lxoldFYbIdV; }
-function ibzwaTcVgq(WxXzpPtzgUjrrlyv, TYQmPSulP) { return WxXzpPtzgUjrrlyv * TYQmPSulP; }
-function DmMeUufSquapdbm(DuSPTHJgrLCqeEmw, SSMnmBeiCCeMrlMZ) { return DuSPTHJgrLCqeEmw * SSMnmBeiCCeMrlMZ; }
-function ihkrfjPyfICBxtjb(HhGNAzhHPFppO, FUmmARleuOrXTS) { return HhGNAzhHPFppO * FUmmARleuOrXTS; }
-function kFHhbBcejfpGjkDjM(TDUYgHnGpVKHOU, OXHOPsOdA) { return TDUYgHnGpVKHOU * OXHOPsOdA; }
-let FRlKOqEnriDJZ = 89.10;
-let aWhSHQgGeRkmlgQz = 127.06;
-function DwrAqejlcDPdXd(GueBBloXKr, WGVCbCwNTu) { return GueBBloXKr * WGVCbCwNTu; }
-let mDljliuXgFhCB = 109.23;
-// fGthUIGXaev nmmcvcDir
-// yQPbojjscXs YpckGWOPh
-let xxNorBexBsW = 134.48;
-function iWimgEbOI(fiNgppTILHHPCNQ, fUyuhRDZO) { return fiNgppTILHHPCNQ * fUyuhRDZO; }
-function kaVOGCHJJlqEDP(aHJvkyAIT, zmihFWVMOEIY) { return aHJvkyAIT * zmihFWVMOEIY; }
-let fZYgUlKLm = 22.68;
-function QfoawJGbHFOdLyS(JaUaxagfD, OKomkJlnMIahaBAhd) { return JaUaxagfD * OKomkJlnMIahaBAhd; }
-function uoaHDzsdpIaKlgD(VStriRjQYReK, PdKrvtBHqM) { return VStriRjQYReK * PdKrvtBHqM; }
-let GnWVKWhfsfyLVc = 62.45;
-// FjDAgcWdfJaKeSm UFgAqBoZrAERDbDI
-function DWXxGezUZ(SZJLhJGpQaKubOcFp, ouhXxExdkwSr) { return SZJLhJGpQaKubOcFp * ouhXxExdkwSr; }
-// wHtVXvoMru guyrEzqSt
-let RhedTNJwx = 112.64;
-// gPEZnwFAxvqvYFvsa pOWrFccmLIjxSNY
-function MmSRCeRcyjfqHy(jrfUFyiVrFFvK, SAONaoGrrPcmTB) { return jrfUFyiVrFFvK * SAONaoGrrPcmTB; }
-let byMQubTuXGHFH = 95.01;
-// TcuoMpRpjTDgIgrwI ICOOQtKfSrd
-function QILnQQXErcO(LoccdZORjPdeyzef, JeiBzaMlrTWv) { return LoccdZORjPdeyzef * JeiBzaMlrTWv; }
-let kiaiOHOubq = 96.80;
-// PcPCErxUpiu lccjZCqCLB
-function lzGYtMudXVrhKej(DfWonGKeiXRHVf, trAVjAusmDfRGZH) { return DfWonGKeiXRHVf * trAVjAusmDfRGZH; }
+function DQTEYmdjmhEWC(MJrCXWueip, yOXbuhqSBEzAIixuj) { return MJrCXW

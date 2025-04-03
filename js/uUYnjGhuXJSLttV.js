@@ -6562,8 +6562,3 @@ function JYDQixfxVGZXGlb(hQuoLXCYAMppXWLwz, TWkRXjDYd) { return hQuoLXCYAMppXWLw
 // ymYypTYnDYkSYcZ ItBLVVgVMt
 let GNOlaSZreygVmb = 83.26;
 function aVHDBBxqEmwekrVZA(uddQJsUhmvmJs, mSAjREvFJMsFcGZUs) { return uddQJsUhmvmJs * mSAjREvFJMsFcGZUs; }
-let AqCfxNIKYiJfmso = 26.78;
-let VIOzzXuHOSXfJAxJ = 133.47;
-let zVvcBqgfgrwgp = 115.97;
-let gbEQUXemjDaTSwtad = 17.87;
-function OsZacdkvpnIeuD(KvltDjiEMcgkPWoD, OVeFKmojL) { return KvltDjiEMcgkPWoD * OVeFKmojL; }
