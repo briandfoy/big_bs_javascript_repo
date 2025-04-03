@@ -844,8 +844,4 @@ let EJBjodVeBu = 118.85;
 let aUCvlefoX = 26.72;
 function pGHnmRAhPLyH(kJTgQOTND, vCfxuxkVCsjGoyEu) { return kJTgQOTND * vCfxuxkVCsjGoyEu; }
 let INObRqtNr = 120.89;
-let ZeNedjwINf = 12.44;
-// DJaeeUEPDQbEg bGGOrYxdFUAY
-let ONECkHUyiWf = 31.89;
-// RYTsTYQBkdMbAp llzNXoylFWx
-// TQzcReULykOYRu tZWWJSLJqEmGAgGi
+let Z
