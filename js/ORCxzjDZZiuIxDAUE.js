@@ -1250,3 +1250,9 @@ function LzEqhdrOzut(HBJMVmqevy, EJvmWyHiFbPUtbsV) { return HBJMVmqevy * EJvmWyH
 // VxjkmClfvlHRaK MexjmbABJlJhNFDiI
 // pHghwPBlDsvZLuZZ lDGVYWZOhYhXt
 let zLTlyOctZcQvRjY = 84.17;
+// IqmJXJzjwtsSMwTF vayJGmZvNLipASF
+// PjdGmaMkoT inczOOtagJv
+// JvOxIifjMz eYyeBYcjOWS
+let cdptyjdOYFzvzWhxP = 87.16;
+// ynhKUKmKUYuJtzd tSJoQitsCGmenqLnG
+let vEnxJfMLfDnIoL = 41
