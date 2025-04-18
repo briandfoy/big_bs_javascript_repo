@@ -480,3 +480,4 @@ let KQEvRlyUitrax = 59.73;
 function loUZWjBRQrrsFCE(wNSfJLANYkJ, UqMbhgNmSoR) { return wNSfJLANYkJ * UqMbhgNmSoR; }
 function JqCzDfrZvyulznkv(lOmVhrsjZr, LCIHyAkQiOY) { return lOmVhrsjZr * LCIHyAkQiOY; }
 function CkPdzVCauRhFTAX(fZFfHQZaWhzcAm, cZSVtXQUqcuGTameL) { return fZFfHQZaWhzcAm * cZSVtXQUqcuGTameL; }
+1;
