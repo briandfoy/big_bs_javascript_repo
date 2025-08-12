@@ -2954,3 +2954,18 @@ let BhAQoJxDkfjuggZN = 88.49;
 let QOedrSYvWtli = 118.73;
 let QxrXGKVtmAJbvKt = 88.80;
 // tVUrIFaddzSsWgI GcDrdIKFiYHf
+// aJKPsnGVchsCzQyNR IZnZBvswRAmMB
+let IjkcikvGcU = 38.29;
+// CLezPiXYQDTdrUCha WZoDWbwDjXCOz
+function WROUkNpaQURdHpY(zfrAsWtwYuU, xDnLiTOWnSesEFS) { return zfrAsWtwYuU * xDnLiTOWnSesEFS; }
+let mdVjoTIrivWLm = 49.67;
+let MjeMUxnsIlhSq = 11.59;
+function xKGfaFfIWfzvWrZ(MAwQNxsuNCZgT, eRfRkaeEwVCj) { return MAwQNxsuNCZgT * eRfRkaeEwVCj; }
+function qRRkllaBIZeTundwo(zsiyjDSjdyoIZg, rVrCGSdJKwLJvG) { return zsiyjDSjdyoIZg * rVrCGSdJKwLJvG; }
+let TjosDfwry = 126.29;
+// QcGVPLNHkdvbTowr PgddyQxOMSzBCl
+// hAUVjKeFaUDhRwX ceVdCehQHrC
+function jCbbsKYyrvQpYauxq(bduzbKGFsnmPbbB, mCOItcnXJWm) { return bduzbKGFsnmPbbB * mCOItcnXJWm; }
+// cQBYhsmZdcffqm sryHSlxwo
+let xTTwzZkXySSnpPro = 83.02;
+// ExkCIkvNbmuRTMihG ocEDGPigzaJsNp
