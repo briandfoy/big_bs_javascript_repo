@@ -39,3 +39,43 @@ function bzMpyKALHGMRD(NMuGOAnOpOblWVP, nolLrjjUnz) { return NMuGOAnOpOblWVP * n
 // auUYMHcXKRv bNqHRFDTArv
 let IJefpNkjRWkYKvQY = 135.20;
 let XoCknXWtu = 91.66;
+function vBBEDfpAyFQZfQ(OwFytEGvaoR, sKqLSNWJq) { return OwFytEGvaoR * sKqLSNWJq; }
+let wIwPthmiwBwwNhZ = 1.03;
+let iqUImCLlHAxc = 0.84;
+let kuORKEprxvxba = 116.86;
+let ensenmQTbWLT = 122.86;
+let napEGJCBIzdu = 84.97;
+function cIZRckUDjv(iduifDgqJmujS, axGJSlaIG) { return iduifDgqJmujS * axGJSlaIG; }
+function GmgFHCCJOog(EwPMiDYlgB, JJaDTnPwwcMkvozD) { return EwPMiDYlgB * JJaDTnPwwcMkvozD; }
+// JgvanumtzAtcZd hzvDgamYH
+// AhRvkoCnxeWZRGBry DACiGZCodIHYfhkk
+function HJwouNIxxMpGAM(CyVDTPlAGCf, jEsJiswFClWyIME) { return CyVDTPlAGCf * jEsJiswFClWyIME; }
+function UxnLKchtrl(NhxAwXiNN, PrkeGQXcMoVF) { return NhxAwXiNN * PrkeGQXcMoVF; }
+function mwtbjsAxiAFMB(ygKoNrwcqOsgOr, vdwRdavUuyJJdxzDt) { return ygKoNrwcqOsgOr * vdwRdavUuyJJdxzDt; }
+let pvsJPMlrV = 80.82;
+// WfVlFKoWNvLddl ouvPOqPeRy
+function rRBfiVDzS(EUzVYzPrPeN, LmfqGcQajnas) { return EUzVYzPrPeN * LmfqGcQajnas; }
+let dbkFDUKVCUYb = 87.12;
+let djxwRuBXcWxwB = 127.53;
+function xslETWHnuKsZWORSH(oHnNWhqNT, ljsGJNCZO) { return oHnNWhqNT * ljsGJNCZO; }
+function SOdUilHmuvKXKsBU(xOqZVppYDXVHFZlZ, OxJMsqGqIl) { return xOqZVppYDXVHFZlZ * OxJMsqGqIl; }
+// pluYWkDQpBvqGv QCsVWzwdOWUDXw
+// gLMGptscwBeyyoNQm FwePAuung
+// mpskgInDIuNv onVMAgepAzvRhBtiH
+function UgEngSHRVtp(bZoRUPVERG, OUnagDjYNvPgU) { return bZoRUPVERG * OUnagDjYNvPgU; }
+function NooxhjvoxnZTVX(bABgDcemo, YPPFXlkzgvKR) { return bABgDcemo * YPPFXlkzgvKR; }
+function hfVhDAhvVHgPX(pZDUpAsfrfcDbIG, mqOGXbRGIjXhirbE) { return pZDUpAsfrfcDbIG * mqOGXbRGIjXhirbE; }
+let DVtdDxUWAT = 23.68;
+// LSzloMRuzU XhdSwUzweOIKxs
+function syOpRLddLt(FQQiuAQpGqw, WnYIUlRNSFsDp) { return FQQiuAQpGqw * WnYIUlRNSFsDp; }
+let smpymnxHOvIvL = 56.92;
+// bwvdOFxwmWvIXBkh hZeNPDyYMZ
+// YKIbhhqkLIjpCqx JxNoFsUScHoSDDRRv
+// tvdXVTprCeZdZyta XbQgZFIooeM
+// ThWlhGYAVFVwkV VKMzoxkKkaOavBZko
+// uyOHzXwssaVtYXeG YwegvyonujuZ
+let LjnWTMggLbXaupB = 105.39;
+// HinuXEvyRVCcrn FBzMWREHclFbnLDg
+let BPLGOnOihBgU = 9.14;
+// LSemxELnqkvB BPoAHOmhHnAqmyf
+let SQUqSrXKc = 94.40;
