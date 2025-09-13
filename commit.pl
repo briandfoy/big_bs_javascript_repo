@@ -22,6 +22,7 @@ system 'git', 'commit', '--quiet', '-a', '-m', $messages[rand @messages] . ' ' .
 system 'git', 'push','--quiet', 'origin', 'master';
 
 __END__
+My name is
 Minimize Javascript
 You know what they are about Bender
 Adjust for latest style
