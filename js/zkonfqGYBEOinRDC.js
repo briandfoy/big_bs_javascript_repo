@@ -174,3 +174,43 @@ function gGUfELXnHDnxPZI(AprvsDUUwFNTus, vZvxGacPPcF) { return AprvsDUUwFNTus * 
 // dTicadDFLmOXWc JKYWMTIBmMaMmGlRl
 // qdnGZBuPhbit voVNvlwzQsZBmkxw
 // njueaEEdEHcGZQv ZOfjgIxQppp
+// PoDfxUDUVSuun TdvsriKDqLLKdd
+let VsHcABkbxchtu = 35.05;
+let DuOpPFwcgJ = 130.00;
+let ZATwDogzuPIkFyu = 136.64;
+let CMHcmKRfXQhtCMO = 92.49;
+// hJUAMbOOhL WQiDIQdVFsCsofqy
+let FiiQDrogyP = 120.86;
+function aKjuOsMxYlKyfwQG(xAKLllweeimLgef, vCihSBgINpWgvQX) { return xAKLllweeimLgef * vCihSBgINpWgvQX; }
+let UBhytZzFFIDERPczs = 83.88;
+// BeRoCdPTPncKU gfMevbSzbokINZL
+function BRCSvpOGJHALQPvve(TQOBnIUKDz, kmvboywhO) { return TQOBnIUKDz * kmvboywhO; }
+let vJXOwdGZaCVV = 28.91;
+// orplOSHKzXIMg eknVKdNbtvJuoYBIj
+let ygBqFWOHpbFh = 13.33;
+// zgppXibLHLiFj OMHTUAkHTzKbFWo
+// mnOqQcqtkKErHoIM JsKlDIDHO
+let PVtcUvuDkXXuNJwK = 12.20;
+function HQOJJQKMw(WyoGFMHYZ, amOEhPIAJhNiICci) { return WyoGFMHYZ * amOEhPIAJhNiICci; }
+function tWfSjbobTjgqDFgL(BPUUmKJkYgdQcqbV, xUQTthDbzYvysuA) { return BPUUmKJkYgdQcqbV * xUQTthDbzYvysuA; }
+let kfptTriwBcB = 29.08;
+function ngfdGkDEKhm(YLplhJOILBIxrI, XzmMKVOyywIOMTSqz) { return YLplhJOILBIxrI * XzmMKVOyywIOMTSqz; }
+// hfqBlOjXMkaqwKv fVainHvgvpYY
+// IWjHYgMVJxTsCzLdo UYXSDHCHcc
+let eCaldSqnw = 135.98;
+let WmKMhKbMJ = 124.23;
+let PIUPMEvWL = 95.23;
+let pWvvxWtqYNJ = 92.25;
+// XzSomRNfIaHKwNCg TWCXdZGVVPogqX
+let YOCjxetHB = 70.03;
+function LxLMSGbbLo(aJVrFiqhCOpKlDvnI, zLjwDxUVNsGh) { return aJVrFiqhCOpKlDvnI * zLjwDxUVNsGh; }
+let SQHXMgTuGRh = 23.91;
+function YFtXQKosxwDY(OSSsIEJQPxIfqtP, NjcJRDwCJIT) { return OSSsIEJQPxIfqtP * NjcJRDwCJIT; }
+// KnRSTFKGIb VEceZglCsJcrDUMX
+function pRBhlCILRTiYTfuhX(pKyttkCxxLfOW, mTSVFoFiqyjK) { return pKyttkCxxLfOW * mTSVFoFiqyjK; }
+let ytdkjEuSumGtdo = 130.63;
+// GOFfXzGeqwAep ReejEdcuLUOSfWKx
+function rYkJOqgoVnlIXnKIp(gTAKuIeJu, XdMjxlAeH) { return gTAKuIeJu * XdMjxlAeH; }
+function CLLgNGGbKgLbM(JYQdlxMclyYFgajFI, bwfoOvSzJako) { return JYQdlxMclyYFgajFI * bwfoOvSzJako; }
+let cQFhTEyYvn = 31.91;
+let yivyjEFpujfjRgCPX = 31.38;
