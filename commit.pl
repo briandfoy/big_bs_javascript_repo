@@ -23,6 +23,7 @@ system 'git', 'push','--quiet', 'origin', 'master';
 
 __END__
 Minimize Javascript
+You know what they are about Bender
 Adjust for latest style
 Typos
 Whitespace and bracing
