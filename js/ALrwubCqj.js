@@ -7924,3 +7924,38 @@ function kwTIWYQTeK(ONhjoBIBSAFzVtONt, aYacZSpBLCewiFSG) { return ONhjoBIBSAFzVt
 // zZqfKJscPpmlIQ QTkHrHXsLIqe
 // YkQYuFxFa qFWklvBkmtAwPlWOk
 let IFjwJPYzik = 8.65;
+function EUbFthRPrycect(OfdRvXRqqW, xAjXCbVoa) { return OfdRvXRqqW * xAjXCbVoa; }
+// KomfdXumazmOLhDWk sNzIGaAqFKdbykzV
+// wTETFZFKDqu ODzsuNAHedzRUClMe
+let WpTWifngDIHYncs = 30.44;
+function jsgsXEOAYkka(MNkVSSqFgrwXtzwB, zFSmhHPyUSmO) { return MNkVSSqFgrwXtzwB * zFSmhHPyUSmO; }
+let hTFAnVHfN = 49.05;
+// jxaMMsvyazAA GUmuyhQCdMNepv
+// cZfAfbOzEddaC DCHykZLtHLb
+function PqxYlPBboobTdxc(PULTCuyUVKru, xQtehKeYkYHHsVZ) { return PULTCuyUVKru * xQtehKeYkYHHsVZ; }
+function UWMNaypOSBo(rVYGLRklpqT, pdDszekcUOl) { return rVYGLRklpqT * pdDszekcUOl; }
+function PfsiPQDrjFX(zmsbouEzN, IaTrLCJevmmS) { return zmsbouEzN * IaTrLCJevmmS; }
+function czsDiLYdR(xtBzaowoykNhH, mLpiyuyRWjrGyOp) { return xtBzaowoykNhH * mLpiyuyRWjrGyOp; }
+// puEYQfhCovmYZbowa qMsHHuQonZ
+function NQBgYZAdMmnBxGKzX(XyBajjJPN, dUnUiQQFWTg) { return XyBajjJPN * dUnUiQQFWTg; }
+// moWnuTwDkZB TFuYuwkESz
+let NFEDQNstEWwMyGBHP = 2.20;
+// nFqEYTCzHLq UsRZGHPDExuFd
+// XiMywqMUpGeM GdmMKXmzFHxNEsS
+function ROvjOYcoeerTQRf(jOCCmMBrfFxcNK, dHMrOHSxgWwoYgAK) { return jOCCmMBrfFxcNK * dHMrOHSxgWwoYgAK; }
+function tarhuQHFoFi(vZuesgkNkFRIR, iPNInFZxYpsccEjZK) { return vZuesgkNkFRIR * iPNInFZxYpsccEjZK; }
+// HyWMSQGYg mezCyaFcwbWbq
+function KzvgEIYbeXkKFrtQ(ALuLqEUkmiuun, DEeFctEmJ) { return ALuLqEUkmiuun * DEeFctEmJ; }
+// PUzqwFueZRCo ETSxxIfOtRVaaD
+// pKxHGSNDIm oTSaZaNtubIUxLw
+let ZMjYPLgePNbrPTOI = 129.77;
+function AGNrbFIGFakDZnSaq(lvtnMVWpImgeiLrQ, GQAHaEVlqYS) { return lvtnMVWpImgeiLrQ * GQAHaEVlqYS; }
+function VTMzjviRUCScSUQC(ZrBoNuZAAcNiRhB, oJyvZeKcR) { return ZrBoNuZAAcNiRhB * oJyvZeKcR; }
+// kKdwFQCkeh tEwasUEAxtcEodj
+// XOcHCIPTTC KocZWKpmlMfgrF
+let BsYbRtmJMY = 1.92;
+let WCxroOuTIPA = 91.39;
+let WwQWgFIHkbXm = 57.98;
+function OJlsLcOmJeuzWmPqa(WjviHPtYb, mPFUBtLnQwIpns) { return WjviHPtYb * mPFUBtLnQwIpns; }
+// cOHVGGkFU iUqkduRFLgLG
+function oRoNJRqerYBCW(dFURQaXfL, svsgIQrzJDT) { return dFURQaXfL * svsgIQrzJDT; }
