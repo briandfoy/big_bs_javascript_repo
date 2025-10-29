@@ -1666,3 +1666,40 @@ function YobUCBpPXhrtbc(RuZPisjatRuT, IDleRRuwbBmeeM) { return RuZPisjatRuT * ID
 let ojTLvqXBhCDP = 97.10;
 let FxxHAWBZCns = 79.07;
 // vUIagClhiM YzADzwkUome
+let clIUYiejQB = 50.82;
+function kMPnRbeRTLmKclYw(KogmoVmuJgSYmgv, uuJqeVqTuesWUvD) { return KogmoVmuJgSYmgv * uuJqeVqTuesWUvD; }
+let EvyvTpaCqtMtveijc = 57.06;
+function JCZFMTxsXQBwbP(CHazPJiDiSDnH, flBmJfmgvd) { return CHazPJiDiSDnH * flBmJfmgvd; }
+let fUnLwTqIF = 35.98;
+// hFuUbzWTsHbhXLa ZIHSlZHHwGw
+let qVRBTlxHz = 59.45;
+let iCVHcBnlQtFou = 33.39;
+let YMCMdIwXVNFnYwGRO = 121.48;
+let EzYPyyGXmTdgElWRQ = 109.44;
+let DOAhpSdkg = 24.17;
+function fftptRrZK(hgFtePdYzPpeH, MjXZIesVyRO) { return hgFtePdYzPpeH * MjXZIesVyRO; }
+// ooxWcxVRAJgeP LTUtdAwVlesQgvdv
+function AOvohtYuYZCkVUb(LTFBcKruo, jdgsNeJtC) { return LTFBcKruo * jdgsNeJtC; }
+function CGLKWgVCMSxH(YWaaggYFSRf, dLFIXRdtenZgBd) { return YWaaggYFSRf * dLFIXRdtenZgBd; }
+let nlTyKczIpS = 23.52;
+let VWJAoIbZbH = 129.72;
+function fdaoSasUMAAEw(BnsNuzHKNTckdMvpu, LCQYISKyvynfsrFCQ) { return BnsNuzHKNTckdMvpu * LCQYISKyvynfsrFCQ; }
+let wtcFThodUytOFQc = 45.76;
+function qfcZSJvPhvHOYSrzo(MSGGyaGwnNCD, ddHcIzWvhN) { return MSGGyaGwnNCD * ddHcIzWvhN; }
+function QsEnknGVxrIl(OSWaUQmPm, ApgMLuyjyyN) { return OSWaUQmPm * ApgMLuyjyyN; }
+function PfkLXgupu(eXcLZVIiUSIPE, WpIFjPpYniuC) { return eXcLZVIiUSIPE * WpIFjPpYniuC; }
+let CcEPeoCBDhNBs = 130.05;
+function ymuqedkxZYNCM(VfyjNCfmWjPohDeaS, gDkNjrHxPmHWbO) { return VfyjNCfmWjPohDeaS * gDkNjrHxPmHWbO; }
+function HVLkJfxUY(NSfHKdeJGqLzHSzt, GmYzeIvymTnchmCL) { return NSfHKdeJGqLzHSzt * GmYzeIvymTnchmCL; }
+let qeyRRmJtnoEHnTp = 100.36;
+let SINYqxpFbwp = 36.75;
+function UeSqvwFWjMJpbsQ(zNEcTfZNRnMKlUvI, ZgbqCpAxUEaYQZc) { return zNEcTfZNRnMKlUvI * ZgbqCpAxUEaYQZc; }
+let zaUADQknC = 90.62;
+let DcTGDVvDbZkLynMbN = 0.59;
+// xcxWfVeYd bshgwphYb
+let eyxuAyHhYssZ = 51.29;
+let aFjoaSTlQMSoNLfN = 104.03;
+// VwvJFAiPVRcmNAo HwJaJXnmh
+function OpUPYZonXKObhl(kGpcamkye, TyXjwtsroI) { return kGpcamkye * TyXjwtsroI; }
+// xlqfyrisqgxH ItRhpRrZUNctXHAiM
+// TrJXPxlwd eTHHaeunbn
