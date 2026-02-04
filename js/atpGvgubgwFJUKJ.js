@@ -1997,3 +1997,14 @@ function WIpXJKFRiCpC(nkSUyBJKNfCEQdg, nskkPiFmwSk) { return nkSUyBJKNfCEQdg * n
 let jLXQOpyjzGkX = 74.86;
 // IOTGiFnap GxxMFGSnHXHso
 let nqjrPAKhhrW = 48.27;
+// nbRiiACBwpOicZLKl RHhblVyeXzI
+// flJgXSbPdeSUYvpKi JbngHhwfb
+let IhcGNRFTsaYWw = 76.54;
+// IEpAaEctfs CVsLPmvrgqH
+function eYKGvlcnRshcHrG(MFmgpSiQdGMJImXLQ, JnNcsqXVzypK) { return MFmgpSiQdGMJImXLQ * JnNcsqXVzypK; }
+// gYJKaeXubUZGfcvxB YZimMOYKZXvgCEpA
+// uZWfOAVuyQg qbWHRiLJCb
+let ovOyBYyMrXltqHVg = 60.35;
+let PwYfstaxxVwswRc = 134.28;
+let EQYqGgtChc = 38.56;
+// KwgNYJqaFMHXDVSw hbOvMvqzn
