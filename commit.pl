@@ -22,7 +22,9 @@ system 'git', 'commit', '--quiet', '-a', '-m', $messages[rand @messages] . ' ' .
 system 'git', 'push','--quiet', 'origin', 'master';
 
 __END__
+My name is
 Minimize Javascript
+You know what they are about Bender
 Adjust for latest style
 Typos
 Whitespace and bracing
@@ -34,3 +36,5 @@ Re-order to make more sense
 Bullet points are okay, too
 Everything related to documentation
 You all know this is bs
+Otters are cool
+The big, brown pelican flies over the lazy fox
